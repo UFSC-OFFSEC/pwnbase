@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="assets/logo.webp" alt="OFFSEC logo" width="300"/>
+
 ![UFSC](https://img.shields.io/badge/UFSC-OFFSEC-green?style=for-the-badge&logo=university)
 
 ![Security](https://img.shields.io/badge/Foco-Cibersegurança-red?style=for-the-badge&logo=security)
@@ -101,11 +103,6 @@ pwnbase/
 
 ├── 📂 presentations/ # Apresentações e slides
 ```
-
-
-## Contato
-
-- 📧 **Email**: offsec.ufsc@gmail.com
 
 ---
 

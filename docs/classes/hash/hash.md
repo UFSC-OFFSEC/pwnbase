@@ -1,0 +1,1 @@
+# HashCat e John The Ripper
