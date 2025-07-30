@@ -1,4 +1,4 @@
-# 🚀 Como começar
+# Como começar
 
 Seja bem-vindo(a)! Para novos integrantes, recomendamos:
 
@@ -20,14 +20,10 @@ Seja bem-vindo(a)! Para novos integrantes, recomendamos:
 
 Todos os conteúdos podem ser encontrados nos diretórios acima, no entanto algumas aulas têm gravações no YouTube.
 
-- **ExploitDB & GTFOBins (teoria)**:  
-  https://www.youtube.com/watch?v=LcNVZZfjugM&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=5  
-- **ExploitDB & GTFOBins (prática)**:  
-  https://www.youtube.com/watch?v=lFAAdSEhooI&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=6  
-- **SQL Injection (teoria)**:  
-  https://www.youtube.com/watch?v=uDw14zKd4ws&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=3  
-- **SQL Injection (prática)**:  
-  https://www.youtube.com/watch?v=ro0-aLVvd8I&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=4  
+- [ExploitDB & GTFOBins (teoria)](https://www.youtube.com/watch?v=LcNVZZfjugM&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=5 ) 
+- [ExploitDB & GTFOBins (prática)](https://www.youtube.com/watch?v=lFAAdSEhooI&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=6)
+- [SQL Injection (teoria)](https://www.youtube.com/watch?v=uDw14zKd4ws&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=3)  
+- [SQL Injection (prática)](https://www.youtube.com/watch?v=ro0-aLVvd8I&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=4)
 
 ---
 
@@ -43,11 +39,7 @@ Todos os conteúdos podem ser encontrados nos diretórios acima, no entanto algu
 
 Igualmente, todos os conteúdos podem ser encontrados nos diretórios acima, no entanto algumas aulas têm gravações no YouTube.
 
-- **FUFF**:  
-  https://www.youtube.com/watch?v=MgMXoFSIOoA&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=9&t=14s  
-- **LinPEAS**:  
-  https://www.youtube.com/watch?v=ABClakerV40&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-  
-- **NetCat (teoria)**:  
-  https://www.youtube.com/watch?v=7vdnRHQiAPg&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-  
-- **NetCat (prática)**:  
-  https://www.youtube.com/watch?v=prpnjAF51jQ&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-
+- [FUFF](https://www.youtube.com/watch?v=MgMXoFSIOoA&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=9)
+- [LinPEAS](https://www.youtube.com/watch?v=ABClakerV40&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-)
+- [NetCat (teoria)](https://www.youtube.com/watch?v=7vdnRHQiAPg&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-)
+- [NetCat (prática)](https://www.youtube.com/watch?v=prpnjAF51jQ&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-)

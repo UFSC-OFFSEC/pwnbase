@@ -46,11 +46,11 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 ###  Coordenação
 
 
-| Nome                                   | Função                    |
-|----------------------------------------|----------------------------|
-| 👨‍🏫 **Prof. Dr. Roberto Filho**         | Coordenador Geral          |
-| 👨‍🏫 **Prof. Dr. Martin A. G. Vigil**     | Professor Responsável      |
-| 🧑‍💻 **Gabriel Juliani Segatto**         | Bolsista Responsável       |
+| Nome                                   | Função                     | GitHub                                               |
+|----------------------------------------|----------------------------|------------------------------------------------------|
+| 👨‍🏫 **Prof. Dr. Roberto Filho**         | Coordenador Geral          | [@robertovrf](https://github.com/robertovrf)         |
+| 👨‍🏫 **Prof. Dr. Martin A. G. Vigil**    | Professor Responsável      | `@` *(não informado)*                                |
+| 🧑‍💻 **Gabriel Juliani Segatto**         | Bolsista Responsável       | [@GJSegatto](https://github.com/GJSegatto)           |
 
 ###  Estudantes Graduandos
 

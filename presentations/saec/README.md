@@ -1,0 +1,1 @@
+# Informações sobre o minicurso feito para a SAECX 2025
