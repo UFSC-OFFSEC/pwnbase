@@ -34,15 +34,15 @@ docs/
 
 A sequência sugerida de estudo dos conteúdos do repositório é a seguinte:
 
-1. [🔧 Preparar ambiente](../environment/)
-2. [🚀 Primeiros passos](../get_started/)
-3. [🐧 Fundamentos Linux](../classes/linux/)
-4. [🔍 Enumeração](../classes/enumeration/)
-5. [📬 Interceptação (BurpSuite)](../classes/burpsuite/)
-6. [🛠️ Injeção](../classes/injection/)
-7. [🔐 Quebra de Senhas](../classes/hash/)
-8. [📡 Exploração de vulnerabilidades](../classes/exploits/)
-9. [📈 Pós-exploração (linPEAS)](../classes/linpeas/)
-10. [🌀 Shell Reverso](../classes/reverse_shell/)
+1. [🔧 Preparar ambiente](../docs/environment/)
+2. [🚀 Primeiros passos](../docs/get_started/)
+3. [🐧 Fundamentos Linux](../docs/classes/linux/)
+4. [🔍 Enumeração](../docs/classes/enumeration/)
+5. [📬 Interceptação (BurpSuite)](../docs/classes/burpsuite/)
+6. [🛠️ Injeção](../docs/classes/injection/)
+7. [🔐 Quebra de Senhas](../docs/classes/hash/)
+8. [📡 Exploração de vulnerabilidades](../docs/classes/exploits/)
+9. [📈 Vulnerabilidades com linPEAS](../docs/classes/linpeas/)
+10. [🌀 Shell Reverso](../docs/classes/reverse_shell/)
 
 ---

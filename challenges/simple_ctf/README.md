@@ -18,8 +18,8 @@ Todos os Write-Ups desenvolvidos  sobre esse desafio podem ser encontrados abaix
 
 | Autor                     | Documento PDF                             |
 |-------------------------------|-------------------------------------------|
-| Derick Andrighetti (`@` *não informado*)      | [🔗 Baixar PDF](./pdf/ctf_writeup_DERICK.pdf) |
-| Eduardo Chedid Padilha Ribeiro (`@` *não informado*)      | [🔗 Baixar PDF](./pdf/ctf_writeup_EDUARDO.pdf) |
-| Gabriel Juliani Segatto ([@GJSegatto](https://github.com/GJSegatto))      | [🔗 Baixar PDF](./pdf/ctf_writeup_GABRIEL.pdf) |
-| Messias (`@` *não informado*)      | [🔗 Baixar PDF](./pdf/ctf_writeup_MESSIAS.pdf) |
-| Nicolas Sanson Giaboeski ([@NicovrauG](https://github.com/NicovrauG))      | [🔗 Baixar PDF](./pdf/ctf_writeup_NICOLAS.pdf) |
+| Derick Andrighetti (`@` *não informado*)      | [📖 Visualizar PDF](./pdf/ctf_writeup_DERICK.pdf) |
+| Eduardo Chedid Padilha Ribeiro (`@` *não informado*)      | [📖 Visualizar PDF](./pdf/ctf_writeup_EDUARDO.pdf) |
+| Gabriel Juliani Segatto ([@GJSegatto](https://github.com/GJSegatto))      | [📖 Visualizar PDF](./pdf/ctf_writeup_GABRIEL.pdf) |
+| Messias (`@` *não informado*)      | [📖 Visualizar PDF](./pdf/ctf_writeup_MESSIAS.pdf) |
+| Nicolas Sanson Giaboeski ([@NicovrauG](https://github.com/NicovrauG))      | [📖 Visualizar PDF](./pdf/ctf_writeup_NICOLAS.pdf) |

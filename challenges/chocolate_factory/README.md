@@ -18,4 +18,4 @@ Todos os Write-Ups desenvolvidos  sobre esse desafio podem ser encontrados abaix
 
 | Autor                     | Documento PDF                             |
 |-------------------------------|-------------------------------------------|
-| Alec Coelho (`@` *não informado*)      | [🔗 Baixar PDF](./pdf/ctf_writeup_ALEC.pdf) |
+| Alec Coelho (`@` *não informado*)      | [📖 Visualizar PDF](./pdf/ctf_writeup_ALEC.pdf) |
