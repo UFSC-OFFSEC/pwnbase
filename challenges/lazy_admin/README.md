@@ -1,10 +1,10 @@
-# 🕵️‍♂️ Pickle Rick
+# 🕵️‍♂️ Lazy Admin
 
 <div align="center">
 
-<img src="https://tryhackme-images.s3.amazonaws.com/room-icons/47d2d3ade1795f81a155d0aca6e4da96.jpeg" alt="TryHackMe - Pickle Rick" width="200"/>
+<img src="https://tryhackme-images.s3.amazonaws.com/room-icons/efbb70493ba66dfbac4302c02ad8facf.jpeg" alt="TryHackMe - Lazy Admin" width="500"/>
 
-➡️ [Link da Sala](https://tryhackme.com/room/picklerick)
+➡️ [Link da Sala](https://tryhackme.com/room/lazyadmin)
 
 ![Level](https://img.shields.io/badge/Level-Easy-green)
 
@@ -18,5 +18,4 @@ Todos os Write-Ups desenvolvidos  sobre esse desafio podem ser encontrados abaix
 
 | Autor                     | Documento PDF                             |
 |-------------------------------|-------------------------------------------|
-| Alec Coelho (`@` *não informado*)      | [📖 Visualizar PDF](./pdf/ctf_writeup_ALEC.pdf) |
 | Nícolas Sanson Giaboeski ([@NicovrauG](https://github.com/NicovrauG))      | [📖 Visualizar PDF](./pdf/ctf_writeup_NICOLAS.pdf) |

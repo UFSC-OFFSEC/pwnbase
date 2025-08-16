@@ -2,8 +2,9 @@
 
 Seja bem-vindo(a)! Para novos integrantes, recomendamos:
 
-1. **Estudar os conteúdos introdutórios produzidos em 2024/2**  
-2. **Realizar os dois primeiros CTFs** a seguir:
+1. **Configurar o ambiente seguindo os passos** [aqui](../environment/)
+2. **Estudar os conteúdos introdutórios produzidos em 2024/2**  
+3. **Realizar os dois primeiros CTFs** a seguir:
 
 ---
 

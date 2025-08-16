@@ -3,7 +3,7 @@
 Esse README apresenta ideias centrais sobre SQLinjection. Para um estudo mais aprofundado utilize os links abaixo:
 
 ➡️ [Fonte principal](https://portswigger.net/web-security/sql-injection#subverting-application-logic)  
-➡️ [PDF da Aula](./pdf/sql_injection.pdf)
+➡️ [PDF da Aula](./pdf/sql_injection.pdf) desenvolvido por [@GJSegatto](https://github.com/GJSegatto)
 
 ---
 

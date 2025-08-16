@@ -58,18 +58,21 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 |-------------------------------|-------------------------------|
 | 🧑‍💻 **Alec Coelho**              | `@` *(não informado)*         |
 | 🧑‍💻 **Augusto Daleffe**          | `@` *(não informado)*         |
-| 🧑‍💻 **Clara Grossl**             | `@` *(não informado)*         |
-| 🧑‍💻 **Eduardo Panizzon**         | `@` *(não informado)*         |
+| 🧑‍💻 **Clara Grossl**             | [@Clara-M-Grossl](https://github.com/Clara-M-Grossl)        |
+| 🧑‍💻 **Derick Andrighetti**       | [@rideckszz](https://github.com/rideckszz)        |
+| 🧑‍💻 **Eduardo Chedid Padilha Ribeiro**  | [@Getdit](https://github.com/Getdit) |
+| 🧑‍💻 **Eduardo Panizzon**         | [@EduardoPanizzon](https://github.com/EduardoPanizzon)        |
 | 🧑‍💻 **Felipe Matar**             | `@` *(não informado)*         |
 | 🧑‍💻 **Gabriel Juliani Segatto**  | [@GJSegatto](https://github.com/GJSegatto) |
-| 🧑‍💻 **João Marcos Moço Giraldi**| [@joao-giraldi](https://github.com/joao-giraldi) |
+| 🧑‍💻 **Italo Silva**  | [@ITA-LOW](https://github.com/ITA-LOW) |
+| 🧑‍💻 **João Marcos Moço Giraldi** | [@joao-giraldi](https://github.com/joao-giraldi) |
 | 🧑‍💻 **José Victor Miranda**      | `@` *(não informado)*         |
 | 🧑‍💻 **Junior Co**                | `@` *(não informado)*         |
 | 🧑‍💻 **Matheus Augusto**          | `@` *(não informado)*         |
 | 🧑‍💻 **Matheus Joaquim**          | `@` *(não informado)*         |
 | 🧑‍💻 **Maurício Darabas**         | `@` *(não informado)*         |
 | 🧑‍💻 **Maurício Melo**            | `@` *(não informado)*         |
-| 🧑‍💻 **Nícolas Sanson Giaboeski**| [@NicovrauG](https://github.com/NicovrauG) |
+| 🧑‍💻 **Nícolas Sanson Giaboeski** | [@NicovrauG](https://github.com/NicovrauG) |
 | 🧑‍💻 **Thales Suarez**            | `@` *(não informado)*         |
 
 
