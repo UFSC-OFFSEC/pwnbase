@@ -68,6 +68,8 @@ Este tipo de vulnerabilidade pode permitir execução arbitrária de comandos no
 
 Uma shell reversa é uma conexão onde o servidor (alvo) conecta-se de volta ao atacante, permitindo que este tenha acesso interativo ao sistema de forma remota.
 
+➡️ Um bom site onde se pode gerar scripts de shell reversa é o [Reverse Shell Generator](https://www.revshells.com/).
+
 Fluxo básico com Netcat:
 
 1. Atacante inicia Netcat no modo *listen*:

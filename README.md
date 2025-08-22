@@ -96,13 +96,15 @@ Esse reposotório também pode ser encontrado na base de conhecimento do projeto
 ```
 pwnbase/
 
+├── 📂 challenges/ # CTFs concluídos e Write-Ups
+
 ├── 📂 docs/ # Documentação e Materiais Didáticos
 
-│ ├── 📂 get-started/ # Tutorial para os primeiros passos
+│ ├── 📂 classes/ # Materiais sobre assuntos estudados
 
-│ └── 📂 classes/ # Materiais sobre assuntos estudados
+│ ├── 📂 environment/ # Tutoriais de instalação e configuração do ambiente
 
-├── 📂 challenges/ # CTFs concluídos e Write-Ups
+│ └── 📂 get-started/ # Tutorial para os primeiros passos
 
 ├── 📂 presentations/ # Apresentações e slides
 ```

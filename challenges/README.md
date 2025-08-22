@@ -20,6 +20,8 @@ O propósito deste repositório é:
 |---------------------------------------|-------------------------------------------------------|
 | Chocolate Factory                     | [Ver detalhes](./chocolate_factory/)                  |
 | Crack The Hash                        | [Ver detalhes](./crack_the_hash/)                     |
+| Lazy Admin                            | [Ver detalhes](./lazy_admin/)                         |
+| OFFSEC CTF1                           | [Ver detalhes](./offsec_ctf1/)                        |
 | Pickle Rick                           | [Ver detalhes](./pickle_rick/)                        |
 | Simple CTF                            | [Ver detalhes](./simple_ctf/)                         |
 
