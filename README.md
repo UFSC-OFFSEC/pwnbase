@@ -52,28 +52,31 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 | 👨‍🏫 **Prof. Dr. Martin A. G. Vigil**    | Professor Responsável      | `@` *(não informado)*                                |
 | 🧑‍💻 **Gabriel Juliani Segatto**         | Bolsista Responsável       | [@GJSegatto](https://github.com/GJSegatto)           |
 
+### Líderes de Projetos
+| Nome                                   | Projeto                     | GitHub                                               |
+|----------------------------------------|----------------------------|------------------------------------------------------|
+| 🧑‍💻 **João Marcos Moço Giraldi**         | Grupo de Visitas Guiadas          | [@joao-giraldi](https://github.com/joao-giraldi)         |
+| 🧑‍💻 **Maurício Melo**         | Produção de CTF Externo          | `@` *(não informado)*         |
+| 🧑‍💻 **Nícolas Sanson Giaboeski**         | Grupo de Cursos e Palestras          | [@NicovrauG](https://github.com/NicovrauG)         |
+
 ###  Estudantes Graduandos
 
 | Nome                          | GitHub                        |
 |-------------------------------|-------------------------------|
 | 🧑‍💻 **Alec Coelho**              | `@` *(não informado)*         |
-| 🧑‍💻 **Augusto Daleffe**          | `@` *(não informado)*         |
+| 🧑‍💻 **Augusto Daleffe**          | [@Dleffe](https://github.com/Dleffe)         |
 | 🧑‍💻 **Clara Grossl**             | [@Clara-M-Grossl](https://github.com/Clara-M-Grossl)        |
 | 🧑‍💻 **Derick Andrighetti**       | [@rideckszz](https://github.com/rideckszz)        |
 | 🧑‍💻 **Eduardo Chedid Padilha Ribeiro**  | [@Getdit](https://github.com/Getdit) |
 | 🧑‍💻 **Eduardo Panizzon**         | [@EduardoPanizzon](https://github.com/EduardoPanizzon)        |
 | 🧑‍💻 **Felipe Matar**             | `@` *(não informado)*         |
-| 🧑‍💻 **Gabriel Juliani Segatto**  | [@GJSegatto](https://github.com/GJSegatto) |
 | 🧑‍💻 **Italo Silva**              | [@ITA-LOW](https://github.com/ITA-LOW) |
-| 🧑‍💻 **João Marcos Moço Giraldi** | [@joao-giraldi](https://github.com/joao-giraldi) |
 | 🧑‍💻 **José Victor Miranda**      | `@` *(não informado)*         |
 | 🧑‍💻 **Junhaum Hayden**           | [@JunhaumHayden](https://github.com/junhaumhayden)         |
 | 🧑‍💻 **Junior Co**                | `@` *(não informado)*         |
 | 🧑‍💻 **Matheus Augusto**          | `@` *(não informado)*         |
 | 🧑‍💻 **Matheus Joaquim**          | `@` *(não informado)*         |
 | 🧑‍💻 **Maurício Darabas**         | `@` *(não informado)*         |
-| 🧑‍💻 **Maurício Melo**            | `@` *(não informado)*         |
-| 🧑‍💻 **Nícolas Sanson Giaboeski** | [@NicovrauG](https://github.com/NicovrauG) |
 | 🧑‍💻 **Thales Suarez**            | `@` *(não informado)*         |
 
 
