@@ -1,7 +1,7 @@
-# Ferramentas para Enumeração Básica
+# Ferramentas para Enumeração (NMAP, goBuster e ffuf)
 
-➡️ [PDF da Aula](./pdf/recon.pdf) de NMAP desenvolvido por [@rideckszz](https://github.com/rideckszz)
-➡️ [PDF da Aula](./pdf/goBuster.pdf) de goBuster desenvolvido por [@ITA-LOW](https://github.com/ITA-LOW)
+➡️ [PDF da Aula](./pdf/recon.pdf) de NMAP desenvolvido por [@rideckszz](https://github.com/rideckszz)\
+➡️ [PDF da Aula](./pdf/goBuster.pdf) de goBuster desenvolvido por [@ITA-LOW](https://github.com/ITA-LOW)\
 ➡️ [PDF da Aula](./pdf/ffuf.pdf) de ffuf desenvolvido por [@rideckszz](https://github.com/rideckszz)
 
 ---

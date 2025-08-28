@@ -64,9 +64,10 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 | 🧑‍💻 **Eduardo Panizzon**         | [@EduardoPanizzon](https://github.com/EduardoPanizzon)        |
 | 🧑‍💻 **Felipe Matar**             | `@` *(não informado)*         |
 | 🧑‍💻 **Gabriel Juliani Segatto**  | [@GJSegatto](https://github.com/GJSegatto) |
-| 🧑‍💻 **Italo Silva**  | [@ITA-LOW](https://github.com/ITA-LOW) |
+| 🧑‍💻 **Italo Silva**              | [@ITA-LOW](https://github.com/ITA-LOW) |
 | 🧑‍💻 **João Marcos Moço Giraldi** | [@joao-giraldi](https://github.com/joao-giraldi) |
 | 🧑‍💻 **José Victor Miranda**      | `@` *(não informado)*         |
+| 🧑‍💻 **Junhaum Hayden**           | [@JunhaumHayden](https://github.com/junhaumhayden)         |
 | 🧑‍💻 **Junior Co**                | `@` *(não informado)*         |
 | 🧑‍💻 **Matheus Augusto**          | `@` *(não informado)*         |
 | 🧑‍💻 **Matheus Joaquim**          | `@` *(não informado)*         |

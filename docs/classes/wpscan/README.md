@@ -1,6 +1,6 @@
 # WPScan
 
-➡️ [PDF da Aula](./pdf/sql_injection.pdf) desenvolvido por [@rideckszz](https://github.com/rideckszz)
+➡️ [PDF da Aula](./pdf/WpScan.pdf) desenvolvido por [@rideckszz](https://github.com/rideckszz)
 
 ---
 
