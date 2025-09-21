@@ -20,5 +20,6 @@ Todos os Write-Ups desenvolvidos  sobre esse desafio podem ser encontrados abaix
 
 | Autor                     | Documento PDF                             |
 |-------------------------------|-------------------------------------------|
+| Eduardo Panizzon ([@EduardoPanizzon](https://github.com/EduardoPanizzon))      | [📖 Visualizar PDF](./pdf/ctf_writeup_EDUARDO.pdf) |
 | Gabriel Juliani Segatto ([@GJSegatto](https://github.com/GJSegatto))      | [📖 Visualizar PDF](./pdf/ctf_writeup_GABRIEL.pdf) |
 | Nícolas Sanson Giaboeski ([@NicovrauG](https://github.com/NicovrauG))      | [📖 Visualizar PDF](./pdf/ctf_writeup_NICOLAS.pdf) |

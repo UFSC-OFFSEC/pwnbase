@@ -1,1 +1,1 @@
-# Informações sobre Palestra de Controle Parental
+# Palestra sobre Controle Parental
