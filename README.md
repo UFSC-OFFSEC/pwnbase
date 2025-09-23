@@ -71,7 +71,6 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 | 🧑‍💻 **Eduardo Panizzon**         | [@EduardoPanizzon](https://github.com/EduardoPanizzon)        |
 | 🧑‍💻 **Felipe Matar**             | `@` *(não informado)*         |
 | 🧑‍💻 **Italo Silva**              | [@ITA-LOW](https://github.com/ITA-LOW) |
-| 🧑‍💻 **José Victor Miranda**      | `@` *(não informado)*         |
 | 🧑‍💻 **Junhaum Hayden**           | [@JunhaumHayden](https://github.com/junhaumhayden)         |
 | 🧑‍💻 **Junior Co**                | `@` *(não informado)*         |
 | 🧑‍💻 **Matheus Augusto**          | `@` *(não informado)*         |

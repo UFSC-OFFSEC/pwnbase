@@ -9,13 +9,27 @@
 
 O grupo da UFSC - OFFSEC ficou resposável por dois eventos durante a primeira SEMANA ACADÊMICA DA TECNOLOGIA (SATECH) de 2025.
 
-Inicialmente foi realizado um Workshop introdutório sobre algumas ferramentas e conceitos utilizados em CTFs. O intuito foi a preparação do público externo ao grupo para a competição que aocnteceria ao final da Semana Acadêmica.
+Inicialmente foi realizado um Workshop introdutório sobre algumas ferramentas e conceitos utilizados em CTFs. O intuito foi a preparação do público externo ao grupo para a competição que aocnteceria ao final da Semana Acadêmica. Durante a aula, foi realizado um CTF guiado para a utilização prática das ferramentas apresentadas.
 
 A competição foi realizada, como dito anteriormente, no último dia do evento (sábado) e contou com 3 desafios, com dificuldade incremental, desenvolvidos exclusivamente para o desafio.
 
 ---
 
 ## 🎖️ CTFs
+
+###  🟣 WORKSHOP - OFFSEC
+
+<div align="center">
+
+<img src="https://tryhackme-images.s3.amazonaws.com/room-icons/6733437be50c41e6cdd608dc-1757536190629" alt="TryHackMe - WORKSHOP - OFFSEC" width="200"/>
+
+➡️ [Link da Sala](https://tryhackme.com/jr/workshopoffsec)
+
+![Level](https://img.shields.io/badge/Level-Easy-green)
+
+</div>
+
+---
 
 ###  🟢 OFFSEC - Hash
 
