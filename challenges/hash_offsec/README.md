@@ -21,3 +21,4 @@ Todos os Write-Ups desenvolvidos  sobre esse desafio podem ser encontrados abaix
 | Autor                     | Documento PDF                             |
 |-------------------------------|-------------------------------------------|
 | Eduardo Panizzon ([@EduardoPanizzon](https://github.com/EduardoPanizzon))      | [📖 Visualizar PDF](./pdf/ctf_writeup_EDUARDO.pdf) |
+| João Marcos Moço Giraldi ([@joao-giraldi](https://github.com/joao-giraldi))      | [📖 Visualizar PDF](./pdf/ctf_writeup_JOAO.pdf) |
