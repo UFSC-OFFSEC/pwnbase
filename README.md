@@ -32,13 +32,13 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 
 ###  Valores
 
-| Valor           | Descrição                                                                 |
-|-----------------|---------------------------------------------------------------------------|
-| 🔒 **Ética**        | Todas as atividades seguem padrões éticos e legais.                      |
-| 🎓 **Educação**     | Foco no aprendizado contínuo e no compartilhamento de conhecimento.     |
-| 🚀 **Inovação**     | Busca constante por novas técnicas e metodologias em segurança ofensiva. |
-| 🤝 **Colaboração**  | Trabalho em equipe e contribuição com a comunidade.                      |
-| 🎯 **Responsabilidade** | Uso consciente e responsável do conhecimento adquirido.               |
+| Valor                     | Descrição                                                                 |
+|---------------------------|---------------------------------------------------------------------------|
+| 🔒 **Ética**              | Todas as atividades seguem padrões éticos e legais.                       |
+| 🎓 **Educação**           | Foco no aprendizado contínuo e no compartilhamento de conhecimento.       |
+| 🚀 **Inovação**           | Busca constante por novas técnicas e metodologias em segurança ofensiva.  |
+| 🤝 **Colaboração**        | Trabalho em equipe e contribuição com a comunidade.                       |
+| 🎯 **Responsabilidade**   | Uso consciente e responsável do conhecimento adquirido.                   |
 
 
 ## Membros
@@ -53,45 +53,51 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 | 🧑‍💻 **Gabriel Juliani Segatto**         | Bolsista Responsável       | [@GJSegatto](https://github.com/GJSegatto)           |
 
 ### Líderes de Projetos
-| Nome                                   | Projeto                     | GitHub                                               |
-|----------------------------------------|----------------------------|------------------------------------------------------|
-| 🧑‍💻 **João Marcos Moço Giraldi**         | Grupo de Visitas Guiadas          | [@joao-giraldi](https://github.com/joao-giraldi)         |
-| 🧑‍💻 **Maurício Melo**         | Produção de CTF Externo          | `@` *(não informado)*         |
-| 🧑‍💻 **Nícolas Sanson Giaboeski**         | Grupo de Cursos e Palestras          | [@NicovrauG](https://github.com/NicovrauG)         |
+| Nome                                      | Projeto                               | GitHub                                                |
+|-------------------------------------------|---------------------------------------|-------------------------------------------------------|
+| 🧑‍💻 **João Marcos Moço Giraldi**           | Grupo de Visitas Guiadas              | [@joao-giraldi](https://github.com/joao-giraldi)      |
+| 🧑‍💻 **Maurício Melo**                      | Produção de CTF Externo               | `@` *(não informado)*                                 |
+| 🧑‍💻 **Nícolas Sanson Giaboeski**           | Grupo de Cursos e Palestras           | [@NicovrauG](https://github.com/NicovrauG)            |
 
 ###  Estudantes Graduandos
 
-| Nome                          | GitHub                        |
-|-------------------------------|-------------------------------|
-| 🧑‍💻 **Alec Coelho**              | `@` *(não informado)*         |
-| 🧑‍💻 **Augusto Daleffe**          | [@Dleffe](https://github.com/Dleffe)         |
-| 🧑‍💻 **Clara Grossl**             | [@Clara-M-Grossl](https://github.com/Clara-M-Grossl)        |
-| 🧑‍💻 **Derick Andrighetti**       | [@rideckszz](https://github.com/rideckszz)        |
-| 🧑‍💻 **Eduardo Chedid Padilha Ribeiro**  | [@Getdit](https://github.com/Getdit) |
-| 🧑‍💻 **Eduardo Panizzon**         | [@EduardoPanizzon](https://github.com/EduardoPanizzon)        |
-| 🧑‍💻 **Felipe Matar**             | `@` *(não informado)*         |
-| 🧑‍💻 **Italo Silva**              | [@ITA-LOW](https://github.com/ITA-LOW) |
-| 🧑‍💻 **Junhaum Hayden**           | [@JunhaumHayden](https://github.com/junhaumhayden)         |
-| 🧑‍💻 **Junior Co**                | `@` *(não informado)*         |
-| 🧑‍💻 **Matheus Augusto**          | `@` *(não informado)*         |
-| 🧑‍💻 **Matheus Joaquim**          | `@` *(não informado)*         |
-| 🧑‍💻 **Maurício Darabas**         | `@` *(não informado)*         |
-| 🧑‍💻 **Thales Suarez**            | `@` *(não informado)*         |
+| Nome                              | GitHub                                                    |
+|-----------------------------------|-----------------------------------------------------------|
+| 🧑‍💻 **Akamine Alves**              | `@` *(não informado)*                                     |
+| 🧑‍💻 **Alec Coelho**                | `@` *(não informado)*                                     |
+| 🧑‍💻 **André Bett**                 | `@` *(não informado)*                                     |
+| 🧑‍💻 **Augusto Daleffe**            | [@Dleffe](https://github.com/Dleffe)                      |
+| 🧑‍💻 **Clara Grossl**               | [@Clara-M-Grossl](https://github.com/Clara-M-Grossl)      |
+| 🧑‍💻 **Derick Andrighetti**         | [@rideckszz](https://github.com/rideckszz)                |
+| 🧑‍💻 **Eduardo Chedid**             | [@Getdit](https://github.com/Getdit)                      |
+| 🧑‍💻 **Eduardo Panizzon**           | [@EduardoPanizzon](https://github.com/EduardoPanizzon)    |
+| 🧑‍💻 **Felipe Matar**               | `@` *(não informado)*                                     |
+| 🧑‍💻 **Guilherme Brandt**           | `@` *(não informado)*                                     |
+| 🧑‍💻 **Italo Silva**                | [@ITA-LOW](https://github.com/ITA-LOW)                    |
+| 🧑‍💻 **Junhaum Hayden**             | [@JunhaumHayden](https://github.com/junhaumhayden)        |
+| 🧑‍💻 **Junior Co**                  | `@` *(não informado)*                                     |
+| 🧑‍💻 **Matheus Joaquim**            | `@` *(não informado)*                                     |
+| 🧑‍💻 **Maurício Darabas**           | `@` *(não informado)*                                     |
+| 🧑‍💻 **Valentina Ragnini**          | `@` *(não informado)*                                     |
+| 🧑‍💻 **Vitoria Alves**              | `@` *(não informado)*                                     |
 
+## Contato
+
+Se tiver interesse em entrar em contato com a gente, acesse nosso servidor no [Discord](https://discord.gg/wyqhWqU8).
 
 ## Projetos e Repositórios Relacionados
 
 ###  Repositórios Parceiros
 
-Esse reposotório também pode ser encontrado na base de conhecimento do projeto de extensão [nome_projeto_jim] encontrado em [lik_repo_jim].  
+Esse reposotório também pode ser encontrado na base de conhecimento do projeto de extensão: [Repositórios Eng. Computação UFSC-ARA](https://github.com/repositorio-code).
 
 ###  Projetos em Desenvolvimento
 
-| Grupo              | Descrição                                                                 |
-|--------------------|---------------------------------------------------------------------------|
-| 🎯 **CTF Externo**       | Criação de desafios *Capture the Flag* autorais.                         |
-| 📚 **Palestras e Cursos** | Produção de conteúdo educativo e contato com a comunidade externa.       |
-| 🏫 **Visitas Guiadas**    | Apresentação de cibersegurança a escolas, em parceria com o projeto da UFSC. |
+| Grupo                     | Descrição                                                                     |
+|---------------------------|-------------------------------------------------------------------------------|
+| 🎯 **CTF Externo**        | Criação de desafios *Capture the Flag* autorais.                              |
+| 📚 **Palestras e Cursos** | Produção de conteúdo educativo e contato com a comunidade externa.            |
+| 🏫 **Visitas Guiadas**    | Apresentação de cibersegurança a escolas, em parceria com o projeto da UFSC.  |
 
 
 ##  📁 Estrutura do Repositório
@@ -109,7 +115,7 @@ pwnbase/
 
 │ └── 📂 get-started/ # Tutorial para os primeiros passos
 
-├── 📂 presentations/ # Apresentações e slides
+├── 📂 presentations/ # Apresentações, palestras e slides
 ```
 
 ---
