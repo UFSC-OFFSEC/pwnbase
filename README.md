@@ -83,7 +83,7 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 
 ## Contato
 
-Se tiver interesse em entrar em contato com a gente, acesse nosso servidor no [Discord](https://discord.gg/wyqhWqU8).
+Se tiver interesse em entrar em contato com a gente, acesse nosso servidor no [Discord](https://discord.gg/m9txZqC3Ft).
 
 ## Projetos e Repositórios Relacionados
 
