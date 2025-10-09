@@ -63,22 +63,20 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 
 | Nome                              | GitHub                                                    |
 |-----------------------------------|-----------------------------------------------------------|
-| 🧑‍💻 **Akamine Alves**              | `@` *(não informado)*                                     |
+| 🧑‍💻 **Akamine Maia**              | `@` *(não informado)*                                     |
 | 🧑‍💻 **Alec Coelho**                | `@` *(não informado)*                                     |
-| 🧑‍💻 **André Bett**                 | `@` *(não informado)*                                     |
 | 🧑‍💻 **Augusto Daleffe**            | [@Dleffe](https://github.com/Dleffe)                      |
 | 🧑‍💻 **Clara Grossl**               | [@Clara-M-Grossl](https://github.com/Clara-M-Grossl)      |
 | 🧑‍💻 **Derick Andrighetti**         | [@rideckszz](https://github.com/rideckszz)                |
 | 🧑‍💻 **Eduardo Chedid**             | [@Getdit](https://github.com/Getdit)                      |
 | 🧑‍💻 **Eduardo Panizzon**           | [@EduardoPanizzon](https://github.com/EduardoPanizzon)    |
-| 🧑‍💻 **Felipe Matar**               | `@` *(não informado)*                                     |
-| 🧑‍💻 **Guilherme Brandt**           | `@` *(não informado)*                                     |
 | 🧑‍💻 **Italo Silva**                | [@ITA-LOW](https://github.com/ITA-LOW)                    |
 | 🧑‍💻 **Junhaum Hayden**             | [@JunhaumHayden](https://github.com/junhaumhayden)        |
 | 🧑‍💻 **Junior Co**                  | `@` *(não informado)*                                     |
 | 🧑‍💻 **Matheus Joaquim**            | `@` *(não informado)*                                     |
 | 🧑‍💻 **Maurício Darabas**           | `@` *(não informado)*                                     |
-| 🧑‍💻 **Valentina Ragnini**          | `@` *(não informado)*                                     |
+| 🧑‍💻 **Messias dos Santos**         | `@` *(não informado)*                                     |
+| 🧑‍💻 **Valentina Ragnini**          | [@valentinaleiria](https://github.com/valentinaleiria)    |
 | 🧑‍💻 **Vitoria Alves**              | `@` *(não informado)*                                     |
 
 ## Contato
