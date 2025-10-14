@@ -1,4 +1,4 @@
-# 🎓 Visitas Guiadas UFSC - OFFSEC
+# Visitas Guiadas UFSC - OFFSEC
 
 A **UFSC OFFSEC** participa do programa de **Visitas Guiadas** da Universidade Federal de Santa Catarina, apresentando conceitos de segurança cibernética e hacking ético para visitantes e estudantes interessados.
 

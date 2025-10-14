@@ -24,6 +24,9 @@ O propósito deste repositório é:
 | Lazy Admin                            | [Ver detalhes](./lazy_admin/)                         |
 | OFFSEC CTF1                           | [Ver detalhes](./offsec_ctf1/)                        |
 | Pickle Rick                           | [Ver detalhes](./pickle_rick/)                        |
+| Prometheus                            | [Ver detalhes](./prometheus/)                         |
+| SawCTF                                | [Ver detalhes](./saw_ctf/)                            |
+| Silver Platter                        | [Ver detalhes](./silver_platter/)                     |
 | Simple CTF                            | [Ver detalhes](./simple_ctf/)                         |
 
 ---

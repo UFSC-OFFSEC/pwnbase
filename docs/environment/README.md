@@ -57,8 +57,8 @@ Para acessar os labs via Kali, é preciso configurar uma VPN:
 3. No Kali, abra um terminal e execute:
 
 ```bash
-sudo apt update
-sudo apt upgrade
+sudo apt update         # Opcional
+sudo apt upgrade        # Opcional
 sudo apt install openvpn
 sudo openvpn ~/Downloads/seuarquivo.ovpn
 ```

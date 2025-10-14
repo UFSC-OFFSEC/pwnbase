@@ -18,5 +18,6 @@ Todos os Write-Ups desenvolvidos  sobre esse desafio podem ser encontrados abaix
 
 | Autor                     | Documento PDF                             |
 |-------------------------------|-------------------------------------------|
-| Alec Coelho (`@` *não informado*)      | [📖 Visualizar PDF](./pdf/ctf_writeup_ALEC.pdf) |
-| Nícolas Sanson Giaboeski ([@NicovrauG](https://github.com/NicovrauG))      | [📖 Visualizar PDF](./pdf/ctf_writeup_NICOLAS.pdf) |
+| Alec Coelho (`@` *não informado*)                                         | [📖 Visualizar PDF](./pdf/ctf_writeup_ALEC.pdf)       |
+| João Marcos ([@joao-giraldi](https://github.com/joao-giraldi))            | [📖 Visualizar PDF](./pdf/ctf_writeup_JOAO.pdf)       |
+| Nícolas Sanson Giaboeski ([@NicovrauG](https://github.com/NicovrauG))     | [📖 Visualizar PDF](./pdf/ctf_writeup_NICOLAS.pdf)    |
