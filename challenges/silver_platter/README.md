@@ -18,5 +18,6 @@ Todos os Write-Ups desenvolvidos  sobre esse desafio podem ser encontrados abaix
 
 | Autor                     | Documento PDF                             |
 |-------------------------------|-------------------------------------------|
-| Gabriel Segatto ([@GJSegatto](https://github.com/GJSegatto))      | [📖 Visualizar PDF](./pdf/ctf_writeup_GABRIEL.pdf) |
-| Nicolas Giaboeski ([@NicovrauG](https://github.com/NicovrauG))      | [📖 Visualizar PDF](./pdf/ctf_writeup_NICOLAS.pdf) |
+| Clara Grossl ([@Clara-M-Grossl](https://github.com/Clara-M-Grossl))       | [📖 Visualizar PDF](./pdf/ctf_writeup_CLARA.pdf)      |
+| Gabriel Segatto ([@GJSegatto](https://github.com/GJSegatto))              | [📖 Visualizar PDF](./pdf/ctf_writeup_GABRIEL.pdf)    |
+| Nicolas Giaboeski ([@NicovrauG](https://github.com/NicovrauG))            | [📖 Visualizar PDF](./pdf/ctf_writeup_NICOLAS.pdf)    |
