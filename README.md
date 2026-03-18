@@ -49,35 +49,67 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 | Nome                                   | Função                     | GitHub                                               |
 |----------------------------------------|----------------------------|------------------------------------------------------|
 | 👨‍🏫 **Prof. Dr. Roberto Filho**         | Coordenador Geral          | [@robertovrf](https://github.com/robertovrf)         |
-| 👨‍🏫 **Prof. Dr. Martin A. G. Vigil**    | Professor Responsável      | `@` *(não informado)*                                |
-| 🧑‍💻 **Gabriel Juliani Segatto**         | Bolsista Responsável       | [@GJSegatto](https://github.com/GJSegatto)           |
+| 👨‍🏫 **Prof. Dr. Martin A. G. Vigil**    | Professor Responsável      | [@Gagliotti](https://github.com/gagliotti)           |
+| 🧑‍💻 **Clara Marcela Grossl**            | Bolsista Responsável       | [@Clara-M-Grossl](https://github.com/Clara-M-Grossl) |
 
 ### Líderes de Projetos
-| Nome                                      | Projeto                               | GitHub                                                |
-|-------------------------------------------|---------------------------------------|-------------------------------------------------------|
-| 🧑‍💻 **João Marcos Moço Giraldi**           | Grupo de Visitas Guiadas              | [@joao-giraldi](https://github.com/joao-giraldi)      |
-| 🧑‍💻 **Maurício Melo**                      | Produção de CTF Externo               | `@` *(não informado)*                                 |
-| 🧑‍💻 **Nícolas Sanson Giaboeski**           | Grupo de Cursos e Palestras           | [@NicovrauG](https://github.com/NicovrauG)            |
+| Nome                  | Projeto                               | GitHub                         |
+|---------------------- |---------------------------------------|--------------------------------|
+|                       | Produção de CTF Externo               |                                |
+|                       |Grupo de Visitas Guiadas               |                                |                                          
+|                       | Grupo de Cursos e Palestras           |                                |
 
 ###  Estudantes Graduandos
 
 | Nome                              | GitHub                                                    |
 |-----------------------------------|-----------------------------------------------------------|
-| 🧑‍💻 **Akamine Maia**              | `@` *(não informado)*                                     |
-| 🧑‍💻 **Alec Coelho**                | `@` *(não informado)*                                     |
-| 🧑‍💻 **Augusto Daleffe**            | [@Dleffe](https://github.com/Dleffe)                      |
-| 🧑‍💻 **Clara Grossl**               | [@Clara-M-Grossl](https://github.com/Clara-M-Grossl)      |
-| 🧑‍💻 **Derick Andrighetti**         | [@rideckszz](https://github.com/rideckszz)                |
-| 🧑‍💻 **Eduardo Chedid**             | [@Getdit](https://github.com/Getdit)                      |
 | 🧑‍💻 **Eduardo Panizzon**           | [@EduardoPanizzon](https://github.com/EduardoPanizzon)    |
-| 🧑‍💻 **Italo Silva**                | [@ITA-LOW](https://github.com/ITA-LOW)                    |
-| 🧑‍💻 **Junhaum Hayden**             | [@JunhaumHayden](https://github.com/junhaumhayden)        |
-| 🧑‍💻 **Junior Co**                  | `@` *(não informado)*                                     |
-| 🧑‍💻 **Matheus Joaquim**            | `@` *(não informado)*                                     |
-| 🧑‍💻 **Maurício Darabas**           | `@` *(não informado)*                                     |
-| 🧑‍💻 **Messias dos Santos**         | `@` *(não informado)*                                     |
-| 🧑‍💻 **Valentina Ragnini**          | [@valentinaleiria](https://github.com/valentinaleiria)    |
-| 🧑‍💻 **Vitoria Alves**              | `@` *(não informado)*                                     |
+| 🧑‍💻 **Matheus Augusto Lima**       | `@` *(não informado)*                                     |
+| 🧑‍💻 **Maurício Melo**              | [@mau25673](https://github.com/mau25673)                  |
+| 🧑‍💻 **Nícolas Sanson Giaboeski**   | [@NicovrauG](https://github.com/NicovrauG)                |  
+
+
+
+### Histórico de Contribuidores
+<details>
+<summary>Espaço dedicado para as pessoas que fizeram parte dessa jornada até aqui</summary>
+<br>
+O OFFSEC agradece a todos os membros que dedicaram seu tempo e conhecimento para o crescimento deste projeto.
+
+### Coordenação (Anterior)
+
+| Nome                                   | Função                                      | GitHub                                               |
+|----------------------------------------|---------------------------------------------|------------------------------------------------------|
+| 🧑‍💻 **Gabriel Juliani Segatto**         | **Bolsista Responsável em 2025**            | [@GJSegatto](https://github.com/GJSegatto)           |
+
+
+### Liderança de Projetos (Anterior)
+
+| Nome                                   | Função                                      | GitHub                                               |
+|----------------------------------------|---------------------------------------------|------------------------------------------------------|
+| 🧑‍💻 **João Marcos Moço Giraldi**        | Grupo de Visitas Guiadas em 2025            | [@joao-giraldi](https://github.com/joao-giraldi)     |
+| 🧑‍💻 **Nícolas Sanson Giaboeski**        | Grupo de Cursos e Palestras em 2025         | [@NicovrauG](https://github.com/NicovrauG)           |
+
+### Colaboradores e Graduandos
+
+| Nome                               | Função                        |  GitHub                                                    |
+|-----------------------------------|--------------------------------|------------------------------------------------------------|
+| 🧑‍💻 **Akamine Maia**               | Membro (2025)                  | `@` *(não informado)*                                      |
+| 🧑‍💻 **Alec Coelho**                | Membro (2025)                  | `@` *(não informado)*                                     |
+| 🧑‍💻 **Augusto Daleffe**            | Membro (2025)                  | [@Dleffe](https://github.com/Dleffe)                      |
+| 🧑‍💻 **Derick Andrighetti**         | Membro (2025/2024)             | [@rideckszz](https://github.com/rideckszz)                |
+| 🧑‍💻 **Eduardo Chedid**             | Membro (2025/2024)             | [@Getdit](https://github.com/Getdit)                      |
+| 🧑‍💻 **Italo Silva**                | Membro (2025/2024)             | [@ITA-LOW](https://github.com/ITA-LOW)                    |
+| 🧑‍💻 **Junhaum Hayden**             | Membro (2025)                  | [@JunhaumHayden](https://github.com/junhaumhayden)        |
+| 🧑‍💻 **Junior Co**                  | Membro (2025)                  | `@` *(não informado)*                                     |
+| 🧑‍💻 **Matheus Joaquim**            | Membro (2025)                  | `@` *(não informado)*                                     |
+| 🧑‍💻 **Maurício Darabas**           | Membro (2025)                  | `@` *(não informado)*                                     |
+| 🧑‍💻 **Messias dos Santos**         | Membro (2025)                  | `@` *(não informado)*                                     |
+| 🧑‍💻 **Valentina Ragnini**          | Membro (2025)                  | [@valentinaleiria](https://github.com/valentinaleiria)    |
+| 🧑‍💻 **Vitoria Alves**              | Membro (2025)                  | `@` *(não informado)*                                     |
+
+</details>
+
 
 ## Contato
 
@@ -122,7 +154,7 @@ pwnbase/
 
 **Desenvolvido pela equipe UFSC OFFSEC**
 
-![UFSC](https://img.shields.io/badge/UFSC-2025-blue)
+![UFSC](https://img.shields.io/badge/UFSC-2026-blue)
 
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
 
