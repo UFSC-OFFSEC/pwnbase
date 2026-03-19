@@ -16,18 +16,18 @@ O propósito deste repositório é:
 
 ## 📌 Índice de Write-Ups
 
-| Desafio                               |   Write-Ups                                           |                                
-|---------------------------------------|-------------------------------------------------------|
-| Chocolate Factory                     | [Ver detalhes](./chocolate_factory/)                  |
-| Crack The Hash                        | [Ver detalhes](./crack_the_hash/)                     |
-| OFFSEC - Hash                         | [Ver detalhes](./hash_offsec/)                        |
-| Lazy Admin                            | [Ver detalhes](./lazy_admin/)                         |
-| OFFSEC CTF1                           | [Ver detalhes](./offsec_ctf1/)                        |
-| Pickle Rick                           | [Ver detalhes](./pickle_rick/)                        |
-| Prometheus                            | [Ver detalhes](./prometheus/)                         |
-| SawCTF                                | [Ver detalhes](./saw_ctf/)                            |
-| Silver Platter                        | [Ver detalhes](./silver_platter/)                     |
-| Simple CTF                            | [Ver detalhes](./simple_ctf/)                         |
+| Desafio                            | Local                            |   Write-Ups                                           |                                
+|------------------------------------|----------------------------------|-------------------------------------------------------|
+| Chocolate Factory                  | `THM`                            | [Ver detalhes](try-hack-me/chocolate_factory/)                  |
+| Crack The Hash                     | `THM`                            | [Ver detalhes](try-hack-me/crack_the_hash/)                     |
+| Lazy Admin                         | `THM`                            | [Ver detalhes](try-hack-me/lazy_admin/)                         |
+| OFFSEC - Hash                      | `Autoral`                        | [Ver detalhes](autoral/hash_offsec/)                        |
+| OFFSEC CTF1                        | `Autoral`                        | [Ver detalhes](autoral/offsec_ctf1/)                        |
+| Pickle Rick                        | `THM`                            | [Ver detalhes](try-hack-me/pickle_rick/)                        |
+| Prometheus                         | `Autoral`                        | [Ver detalhes](autoral/prometheus/)                         |
+| SawCTF                             | `Autoral`                        | [Ver detalhes](autoral/saw_ctf/)                            |
+| Silver Platter                     | `THM`                            | [Ver detalhes](try-hack-me/silver_platter/)                     |
+| Simple CTF                         | `THM`                            | [Ver detalhes](try-hack-me/simple_ctf/)                         |
 
 ---
 
