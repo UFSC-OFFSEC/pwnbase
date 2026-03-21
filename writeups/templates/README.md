@@ -24,11 +24,11 @@ Veja como fica o resultado final de cada template:
 
 Não sabe como estruturar seu texto? Separamos alguns exemplos reais resolvidos para você se inspirar, separados por estilo de escrita:
 
-* [**Estilo Formal:**](writeups/try-hack-me/bounty-Hacker/pdf/ctf_writeup_CLARA.pdf) Ideal para relatórios oficiais. Utiliza seções numeradas e legendas detalhadas em todas as figuras.
-* [**Estilo Narrativo:**](writeups/try-hack-me/silver_platter/pdf/ctf_writeup_GABRIEL.pdf) Escrito em primeira pessoa, relatando o fluxo de pensamento do atacante junto com os retornos do terminal.
-* [**Estilo Passo a Passo Visual:**](writeups/try-hack-me/silver_platter/pdf/ctf_writeup_NICOLAS.pdf) Focado na sequência lógica das ações, guiando o leitor através de telas e comandos executados.
-* [**Estilo Resumo Estruturado:**](writeups/try-hack-me/simple_ctf/pdf/ctf_writeup_DERICK.pdf) Inicia com uma sinopse e habilidades necessárias, finalizando com o gabarito das perguntas da plataforma.
-* [**Estilo Analítico:**](writeups/try-hack-me/simple_ctf/pdf/ctf_writeup_EDUARDO.pdf) Descreve toda a metodologia e o raciocínio em formato de lista numerada, sem a utilização de imagens.
+* [**Estilo Formal:**](/writeups/try-hack-me/bounty-Hacker/pdf/ctf_writeup_CLARA.pdf) Ideal para relatórios oficiais. Utiliza seções numeradas e legendas detalhadas em todas as figuras.
+* [**Estilo Narrativo:**](/writeups/try-hack-me/silver_platter/pdf/ctf_writeup_GABRIEL.pdf) Escrito em primeira pessoa, relatando o fluxo de pensamento do atacante junto com os retornos do terminal.
+* [**Estilo Passo a Passo Visual:**](/writeups/try-hack-me/silver_platter/pdf/ctf_writeup_NICOLAS.pdf) Focado na sequência lógica das ações, guiando o leitor através de telas e comandos executados.
+* [**Estilo Resumo Estruturado:**](/writeups/try-hack-me/simple_ctf/pdf/ctf_writeup_DERICK.pdf) Inicia com uma sinopse e habilidades necessárias, finalizando com o gabarito das perguntas da plataforma.
+* [**Estilo Analítico:**](/writeups/try-hack-me/simple_ctf/pdf/ctf_writeup_EDUARDO.pdf) Descreve toda a metodologia e o raciocínio em formato de lista numerada, sem a utilização de imagens.
 
 
 ## Como enviar o seu Write-up
