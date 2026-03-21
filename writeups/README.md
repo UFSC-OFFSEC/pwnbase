@@ -14,20 +14,28 @@ O propósito deste repositório é:
 
 ---
 
+## Como Contribuir?
+
+Para documentar a resolução de uma máquina, utilize os nossos templates padronizados (disponíveis em LaTeX e Google Docs). Na pasta de templates, você também encontrará exemplos de estilos de escrita do grupo para utilizar como referência.
+
+👉 **[Acessar a pasta de Templates](./templates)**
+*(Importante: ao enviar a sua resolução, renomeie o arquivo para `ctf_writeup_SEUNOME.pdf`)*
+
 ## 📌 Índice de Write-Ups
 
 | Desafio                            | Local                            |   Write-Ups                                           |                                
 |------------------------------------|----------------------------------|-------------------------------------------------------|
-| Chocolate Factory                  | `THM`                            | [Ver detalhes](try-hack-me/chocolate_factory/)                  |
-| Crack The Hash                     | `THM`                            | [Ver detalhes](try-hack-me/crack_the_hash/)                     |
-| Lazy Admin                         | `THM`                            | [Ver detalhes](try-hack-me/lazy_admin/)                         |
-| OFFSEC - Hash                      | `Autoral`                        | [Ver detalhes](autoral/hash_offsec/)                        |
-| OFFSEC CTF1                        | `Autoral`                        | [Ver detalhes](autoral/offsec_ctf1/)                        |
-| Pickle Rick                        | `THM`                            | [Ver detalhes](try-hack-me/pickle_rick/)                        |
-| Prometheus                         | `Autoral`                        | [Ver detalhes](autoral/prometheus/)                         |
-| SawCTF                             | `Autoral`                        | [Ver detalhes](autoral/saw_ctf/)                            |
-| Silver Platter                     | `THM`                            | [Ver detalhes](try-hack-me/silver_platter/)                     |
-| Simple CTF                         | `THM`                            | [Ver detalhes](try-hack-me/simple_ctf/)                         |
+| Bounty Hacker                      | `THM`                            | [Ver detalhes](try-hack-me/bounty-Hacker/)            |
+| Chocolate Factory                  | `THM`                            | [Ver detalhes](try-hack-me/chocolate_factory/)        |
+| Crack The Hash                     | `THM`                            | [Ver detalhes](try-hack-me/crack_the_hash/)           |
+| Lazy Admin                         | `THM`                            | [Ver detalhes](try-hack-me/lazy_admin/)               |
+| OFFSEC - Hash                      | `Autoral`                        | [Ver detalhes](autoral/hash_offsec/)                  |
+| OFFSEC CTF1                        | `Autoral`                        | [Ver detalhes](autoral/offsec_ctf1/)                  |
+| Pickle Rick                        | `THM`                            | [Ver detalhes](try-hack-me/pickle_rick/)              |
+| Prometheus                         | `Autoral`                        | [Ver detalhes](autoral/prometheus/)                   |
+| SawCTF                             | `Autoral`                        | [Ver detalhes](autoral/saw_ctf/)                      |
+| Silver Platter                     | `THM`                            | [Ver detalhes](try-hack-me/silver_platter/)           |
+| Simple CTF                         | `THM`                            | [Ver detalhes](try-hack-me/simple_ctf/)               |
 
 ---
 
