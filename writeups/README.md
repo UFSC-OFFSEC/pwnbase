@@ -33,6 +33,7 @@ Para documentar a resolução de uma máquina, utilize os nossos templates padro
 | OFFSEC CTF1                        | `Autoral`                        | [Ver detalhes](autoral/offsec_ctf1/)                  |
 | Pickle Rick                        | `THM`                            | [Ver detalhes](try-hack-me/pickle_rick/)              |
 | Prometheus                         | `Autoral`                        | [Ver detalhes](autoral/prometheus/)                   |
+| RootMe                             | `THM`                            | [Ver detalhes](try-hack-me/root-me)          |
 | SawCTF                             | `Autoral`                        | [Ver detalhes](autoral/saw_ctf/)                      |
 | Silver Platter                     | `THM`                            | [Ver detalhes](try-hack-me/silver_platter/)           |
 | Simple CTF                         | `THM`                            | [Ver detalhes](try-hack-me/simple_ctf/)               |
