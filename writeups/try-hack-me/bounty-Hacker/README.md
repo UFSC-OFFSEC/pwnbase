@@ -19,4 +19,5 @@ Todos os Write-Ups desenvolvidos  sobre esse desafio podem ser encontrados abaix
 | Autor                     | Documento PDF                                          |
 |---------------------------|--------------------------------------------------------|
 | Clara Marcela Grossl      | [📖 Visualizar PDF](./pdf/ctf_writeup_CLARA.pdf)       |
+| Maurício Melo Filho       | [📖 Visualizar PDF](./pdf/ctf_writeup_MAURICIO.pdf)       |
 
