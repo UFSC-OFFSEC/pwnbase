@@ -61,12 +61,24 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 
 ###  Estudantes Graduandos
 
-| Nome                              | GitHub                                                    |
-|-----------------------------------|-----------------------------------------------------------|
-| 🧑‍💻 **Eduardo Panizzon**           | [@EduardoPanizzon](https://github.com/EduardoPanizzon)    |
-| 🧑‍💻 **Matheus Augusto Lima**       | `@` *(não informado)*                                     |
-| 🧑‍💻 **Maurício Melo**              | [@mau25673](https://github.com/mau25673)                  |
-| 🧑‍💻 **Nícolas Sanson Giaboeski**   | [@NicovrauG](https://github.com/NicovrauG)                |  
+| Nome                                    | GitHub                                                    |
+|-----------------------------------------|-----------------------------------------------------------|
+| 🧑‍💻 **Davi de Carvalho Brigido Josino**  | `@` *(não informado)*                                     |
+| 🧑‍💻 **Eduardo Panizzon**                 | [@EduardoPanizzon](https://github.com/EduardoPanizzon)    |
+| 🧑‍💻 **Filipe de Moura Peixoto**          | `@` *(não informado)*                                     |
+| 🧑‍💻 **Heitor de Bona Garcia**            | `@` *(não informado)*                                     |
+| 🧑‍💻 **Heitor Soares de Melo**            | `@` *(não informado)*                                     |
+| 🧑‍💻 **Isadora Orige Ribeiro Alves**      | `@` *(não informado)*                                     |
+| 🧑‍💻 **João Bacar Baldé**                 | `@` *(não informado)*                                     |
+| 🧑‍💻 **Jurpinho Juca Soares**             | `@` *(não informado)*                                     |
+| 🧑‍💻 **Luisa Scholtao Luna**              | `@` *(não informado)*                                     |
+| 🧑‍💻 **Matheus Augusto Lima**             | `@` *(não informado)*                                     |
+| 🧑‍💻 **Maurício Melo**                    | [@mau25673](https://github.com/mau25673)                  |
+| 🧑‍💻 **Natalia Farias Bianchini**         | `@` *(não informado)*                                     |
+| 🧑‍💻 **Nícolas Sanson Giaboeski**         | [@NicovrauG](https://github.com/NicovrauG)                |  
+| 🧑‍💻 **Rafael Rodrigues Ribeiro Junior**  | `@` *(não informado)*                                     |
+| 🧑‍💻 **Thomas Tavares Tomaz**             | `@` *(não informado)*                                     |
+| 🧑‍💻 **Valtair Leandro Neto**             | `@` *(não informado)*                                     |
 
 
 
