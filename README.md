@@ -68,16 +68,16 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 | 🧑‍💻 **Filipe de Moura Peixoto**          | `@` *(não informado)*                                     |
 | 🧑‍💻 **Heitor de Bona Garcia**            | `@` *(não informado)*                                     |
 | 🧑‍💻 **Heitor Soares de Melo**            | `@` *(não informado)*                                     |
-| 🧑‍💻 **Isadora Orige Ribeiro Alves**      | `@` *(não informado)*                                     |
+| 🧑‍💻 **Isadora Orige Ribeiro Alves**      | [@5ometh1ngWe1rd](https://github.com/5ometh1ngWe1rd)      |
 | 🧑‍💻 **João Bacar Baldé**                 | `@` *(não informado)*                                     |
 | 🧑‍💻 **Jurpinho Juca Soares**             | `@` *(não informado)*                                     |
 | 🧑‍💻 **Luisa Scholtao Luna**              | `@` *(não informado)*                                     |
 | 🧑‍💻 **Matheus Augusto Lima**             | `@` *(não informado)*                                     |
 | 🧑‍💻 **Maurício Melo**                    | [@mau25673](https://github.com/mau25673)                  |
-| 🧑‍💻 **Natalia Farias Bianchini**         | `@` *(não informado)*                                     |
+| 🧑‍💻 **Natalia Farias Bianchini**         | [@natfb](https://github.com/natfb)                        |
 | 🧑‍💻 **Nícolas Sanson Giaboeski**         | [@NicovrauG](https://github.com/NicovrauG)                |  
-| 🧑‍💻 **Rafael Rodrigues Ribeiro Junior**  | `@` *(não informado)*                                     |
-| 🧑‍💻 **Thomas Tavares Tomaz**             | `@` *(não informado)*                                     |
+| 🧑‍💻 **Rafael Rodrigues Ribeiro Junior**  | [@RqfaelJr](https://github.com/RqfaelJr)                  |
+| 🧑‍💻 **Thomas Tavares Tomaz**             | [@ThomasTavares](https://github.com/ThomasTavares)        |
 | 🧑‍💻 **Valtair Leandro Neto**             | `@` *(não informado)*                                     |
 
 
