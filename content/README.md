@@ -1,46 +1,19 @@
-# Como começar
+# Guia dos Conteúdos
 
-Seja bem-vindo(a)! Para novos integrantes, recomendamos:
+Este diretório organiza o conteúdo didático do repositório de forma sequencial.
 
-1. **Configurar o ambiente seguindo os passos** [aqui](../environment/)
-2. **Estudar os conteúdos introdutórios produzidos em 2024/2**  
-3. **Realizar os dois primeiros CTFs** a seguir:
+## Módulos
 
----
+* [**[00] - setup:**](%5B00%5D%20-%20setup/) Configuração da máquina virtual e instalação de ferramentas.
+* [**[01] - fundamentals:**](%5B01%5D%20-%20fundamentals/) Revisão de sistemas operacionais e comandos no terminal do Linux.
+* [**[02] - recon:**](%5B02%5D%20-%20recon/) Enumeração, varredura de portas e mapeamento da superfície de ataque.
+* [**[03] - web-attacks:**](%5B03%5D%20-%20web-attacks/) Identificação de vulnerabilidades comuns em sistemas web.
+* [**[04] - exploitation:**](%5B04%5D%20-%20exploitation/) Exploits, comprometimento de serviços vulneráveis e ganho de acesso inicial.
+* [**[05] - privesc:**](%5B05%5D%20-%20privesc/) Escalação de privilégios. Técnicas de pós-exploração para obter acesso administrativo (root) no alvo.
 
-### 🥇 CTF 1: Simple CTF  
-👉 [TryHackMe – Simple CTF](https://tryhackme.com/room/easyctf)  
+## Instruções de Uso
 
-**Conteúdos abordados:**  
-- [Enumeração](../classes/enumeration/)
-- [ExploitDB e GTFOBins](../classes/exploits/)
-- [SQL Injection](../classes/injection/)
-- [Linux Basics e SSH](../classes/linux/)
-
-**Material de apoio:**
-
-Todos os conteúdos podem ser encontrados nos diretórios acima, no entanto algumas aulas têm gravações no YouTube.
-
-- [ExploitDB & GTFOBins (teoria)](https://www.youtube.com/watch?v=LcNVZZfjugM&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=5 ) 
-- [ExploitDB & GTFOBins (prática)](https://www.youtube.com/watch?v=lFAAdSEhooI&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=6)
-- [SQL Injection (teoria)](https://www.youtube.com/watch?v=uDw14zKd4ws&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=3)  
-- [SQL Injection (prática)](https://www.youtube.com/watch?v=ro0-aLVvd8I&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=4)
-
----
-
-### 🥈 CTF 2: RootMe  
-👉 [TryHackMe – RootMe](https://tryhackme.com/r/room/rrootme)  
-
-**Conteúdos abordados:**  
-- [fuff](../classes/enumeration/)
-- [LinPEAS](../classes/linpeas/)
-- [NetCat](../classes/reverse_shell/)
-
-**Material de apoio:**
-
-Igualmente, todos os conteúdos podem ser encontrados nos diretórios acima, no entanto algumas aulas têm gravações no YouTube.
-
-- [FUFF](https://www.youtube.com/watch?v=MgMXoFSIOoA&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-&index=9)
-- [LinPEAS](https://www.youtube.com/watch?v=ABClakerV40&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-)
-- [NetCat (teoria)](https://www.youtube.com/watch?v=7vdnRHQiAPg&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-)
-- [NetCat (prática)](https://www.youtube.com/watch?v=prpnjAF51jQ&list=PLnUODu_lQh2xi4nNJ_ZD-l_AwgAiJCo1-)
+1. **Siga a numeração** 
+2. **Material de apoio:** Durante os estudos, utilize as pastas na raiz do repositório como suporte:
+   * [/writups:](../writeups/) Para consultar resoluções de desafios apenas após tentar executar a prática por conta própria.
+   * [/presentations:](../presentations/) Para consultar slides apresentações para referência.
