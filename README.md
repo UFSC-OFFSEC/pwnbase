@@ -65,14 +65,14 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 |-----------------------------------------|-----------------------------------------------------------|
 | 🧑‍💻 **Davi de Carvalho Brigido Josino**  | `@` *(não informado)*                                     |
 | 🧑‍💻 **Eduardo Panizzon**                 | [@EduardoPanizzon](https://github.com/EduardoPanizzon)    |
-| 🧑‍💻 **Filipe de Moura Peixoto**          | `@` *(não informado)*                                     |
+| 🧑‍💻 **Filipe de Moura Peixoto**          | [@childrenoftheK0rn](https://github.com/childrenoftheK0rn)|
 | 🧑‍💻 **Heitor de Bona Garcia**            | `@` *(não informado)*                                     |
 | 🧑‍💻 **Heitor Soares de Melo**            | `@` *(não informado)*                                     |
 | 🧑‍💻 **Isadora Orige Ribeiro Alves**      | [@5ometh1ngWe1rd](https://github.com/5ometh1ngWe1rd)      |
 | 🧑‍💻 **João Bacar Baldé**                 | `@` *(não informado)*                                     |
 | 🧑‍💻 **Jurpinho Juca Soares**             | `@` *(não informado)*                                     |
 | 🧑‍💻 **Luisa Scholtao Luna**              | `@` *(não informado)*                                     |
-| 🧑‍💻 **Matheus Augusto Lima**             | `@` *(não informado)*                                     |
+| 🧑‍💻 **Matheus Augusto Lima**             | [@cypherghostmd](https://github.com/cypherghostmd)        |
 | 🧑‍💻 **Maurício Melo**                    | [@mau25673](https://github.com/mau25673)                  |
 | 🧑‍💻 **Natalia Farias Bianchini**         | [@natfb](https://github.com/natfb)                        |
 | 🧑‍💻 **Nícolas Sanson Giaboeski**         | [@NicovrauG](https://github.com/NicovrauG)                |  
