@@ -78,7 +78,7 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 | 🧑‍💻 **Nícolas Sanson Giaboeski**         | [@NicovrauG](https://github.com/NicovrauG)                |  
 | 🧑‍💻 **Rafael Rodrigues Ribeiro Junior**  | [@RqfaelJr](https://github.com/RqfaelJr)                  |
 | 🧑‍💻 **Thomas Tavares Tomaz**             | [@ThomasTavares](https://github.com/ThomasTavares)        |
-| 🧑‍💻 **Valtair Leandro Neto**             | `@` *(não informado)*                                     |
+| 🧑‍💻 **Valtair Leandro Neto**             | [@ValtairLeandro](https://github.com/ValtairLeandro)      |
 
 
 
