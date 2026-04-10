@@ -22,6 +22,7 @@ Todos os Write-Ups desenvolvidos  sobre esse desafio podem ser encontrados abaix
 | Clara Marcela Grossl ([@Clara-M-Grossl](https://github.com/Clara-M-Grossl))        | [📖 Visualizar PDF](./pdf/ctf_writeup_CLARA.pdf)        |
 | Filipe de Moura Peixoto ([childrenoftheK0rn](https://github.com/childrenoftheK0rn))| [📖 Visualizar PDF](./pdf/ctf_writeup_FILIPE.pdf)       |
 | Heitor de Bona Garcia (`@` *não informado*)                                        | [📖 Visualizar PDF](./pdf/ctf_writeup_HEITOR_GARCIA.pdf)|
+| Isadora Orige Ribeiro Alves ([@5ometh1ngWe1rd](https://github.com/5ometh1ngWe1rd)) | [📖 Visualizar PDF](./pdf/ctf_writeup_ISADORA.pdf)      |
 | João Marcos ([@joao-giraldi](https://github.com/joao-giraldi))                     | [📖 Visualizar PDF](./pdf/ctf_writeup_JOAO.pdf)         |
 | Luisa Scholtao Luna (`@` *não informado*)                                          | [📖 Visualizar PDF](./pdf/ctf_writeup_LUISA.pdf)        |
 | Matheus Augusto Lima ([@cypherghostmd](https://github.com/cypherghostmd))          | [📖 Visualizar PDF](./pdf/ctf_writeup_MATHEUS.pdf)      |
