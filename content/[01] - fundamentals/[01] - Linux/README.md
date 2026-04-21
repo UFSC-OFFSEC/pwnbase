@@ -19,7 +19,7 @@ Por que aprender Linux?
 A organização do sistema de arquivos no Linux segue uma estrutura hierárquica chamada de FHS (Filesystem Hierarchy Standard), iniciando obrigatoriamente no diretório `/`. A ilustração abaixo representa essa disposição:
 
 <div align="center">
-<img src="pdf/image.png" alt="Imagem do Filesystem Hierarchy Standard" width="200"/>
+<img src="pdf/image.png" alt="Imagem do Filesystem Hierarchy Standard" width="600"/>
 </div>
 
 Para fins de compreensão, apresentam-se os diretórios principais que compõem essa estrutura:
