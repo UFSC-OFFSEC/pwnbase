@@ -19,45 +19,57 @@ sudo apt install ffuf
 A principal característica da ferramente é a utilização da palavra-chave FUZZ no ponto exato onde os termos da wordlist devem ser inseridos.
 
 1. Fuzzing de Diretórios:
+   
    Descobre pastas e arquivos escondidos
-  ```bash
-  ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://SERVER_IP:PORT/FUZZ
-  ```
+   
+    ```bash
+    ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://SERVER_IP:PORT/FUZZ
+    ```
 
-2. Extension Fuzzing:
+3. Extension Fuzzing:
+   
    Descobre extensões de arquivos aceitas.
-  ```bash
-  ffuf -w /usr/share/seclists/Discovery/Web-Content/web-extensions.txt:FUZZ -u http://SERVER_IP:PORT/blog/indexFUZZ
-  ```
+   
+    ```bash
+    ffuf -w /usr/share/seclists/Discovery/Web-Content/web-extensions.txt:FUZZ -u http://SERVER_IP:PORT/blog/indexFUZZ
+    ```
 
-3. Fuzzing Recursivo:
+5. Fuzzing Recursivo:
+   
    Explora subdiretórios automaticamente.
-  ```bash
-  ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://SERVER_IP:PORT/FUZZ -recursion -recursion-depth 1 -e .php -v
-  ```
+   
+    ```bash
+    ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://SERVER_IP:PORT/FUZZ -recursion -recursion-depth 1 -e .php -v
+    ```
 
-4. Domain Fuzzing:
+7. Domain Fuzzing:
+   
    Descobre subdomínios.
-  ```bash
-  sudo sh -c 'echo "SERVER_IP dominio.site" >> /etc/hosts'
-  ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u https://FUZZ.dominio.site/
-  ```
+   
+    ```bash
+    sudo sh -c 'echo "SERVER_IP dominio.site" >> /etc/hosts'
+    ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u https://FUZZ.dominio.site/
+    ```
 
 5. VHosts Fuzzing:
+   
    Descobre virtual hosts.
-  ```bash
-  ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u http://SERVER_IP/ -H "Host: FUZZ.dominio.site"
-  ```
+   
+    ```bash
+    ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u http://SERVER_IP/ -H "Host: FUZZ.dominio.site"
+    ```
 
 6. Parameter Fuzzing:
+   
    Testa parâmetros escondidos em GET e POST.
-  ```bash
-  #GET
-  ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt:FUZZ -u https://site.com/view.php?FUZZ=1
-  
-  #POST
-  ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt:FUZZ -u https://site.com/view.php -X POST -d "FUZZ=1" -H "Content-Type: application/x-www-form-urlencoded"
-  ```
+   
+    ```bash
+    #GET
+    ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt:FUZZ -u https://site.com/view.php?FUZZ=1
+    
+    #POST
+    ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt:FUZZ -u https://site.com/view.php -X POST -d "FUZZ=1" -H "Content-Type: application/x-www-form-urlencoded"
+    ```
 
 ## Flags Úteis
 
