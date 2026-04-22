@@ -1,80 +1,65 @@
-## ⚡ 📖 O que é Web Fuzzing?
+<div align="center">
+  <img src="https://github.com/ffuf/ffuf/blob/master/_img/ffuf_run_logo_600.png?raw=true" alt="Ffuf" width="600"/>
+</div>
 
-O Web Fuzzing é uma técnica de segurança que consiste em enviar várias entradas inesperadas para uma aplicação, observando como ela responde.
+# Ffuf (Fuzz Faster U Fool)
 
-Principais objetivos:
-- Descobrir diretórios e arquivos ocultos  
-- Encontrar subdomínios e vhosts  
-- Identificar parâmetros e extensões válidas  
-- Detectar falhas de segurança exploráveis
+O ffuf é uma ferramenta de linha de comando, reconhecida pela sua alta perfomance em tarefas de fuzzing web. Sua versatilidade permite realizar desde a descoberta de diretórios até a identificação de parâmetros ocultos em requisições POST.
 
-### 🔑 Fuzzing vs Brute-Forcing
+## Instalação no Kali:
 
-- Fuzzing → usa entradas variadas, inesperadas e wordlists mutadas para descobrir comportamentos ocultos.
-- Brute-Forcing → testa sistematicamente todas as combinações possíveis até encontrar a correta.
-
-Analogia:
-- Fuzzing = tentar abrir a porta com chaves, grampos, cartões, clips.
-- Brute-Forcing = testar cada chave do chaveiro uma por uma.
-
-### 🛠️ Conceitos Essenciais
-
-- Wordlist → lista de palavras/valores a serem testados  
-- Payload → dado enviado ao alvo  
-- Response Analysis → análise das respostas do servidor  
-- Fuzzer → ferramenta que automatiza os testes (como o `ffuf`)  
-
-## ⚡ Ffuf
-
-- Ferramenta CLI: roda via terminal
-- Alta performance: suporta multithreading
-- Versátil: faz fuzzing em diretórios, subdomínios, parâmetros, vhosts e mais
-
-### 📦 Instalação no Kali:
 Assim como o goBuster, o ffuf não vem instalado por padrão no Kali. Para realizar a instalação:
 
 ```bash
 sudo apt install ffuf
 ```
 
-### 📂 Principais Modos de Uso
+## Principais Modos de Uso
 
-1. Fuzzing de Diretórios (Descobre pastas e arquivos escondidos):
-```bash
-ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://SERVER_IP:PORT/FUZZ
-```
+A principal característica da ferramente é a utilização da palavra-chave FUZZ no ponto exato onde os termos da wordlist devem ser inseridos.
 
-2. Extension Fuzzing (Descobre extensões de arquivos aceitas):
-```bash
-ffuf -w /usr/share/seclists/Discovery/Web-Content/web-extensions.txt:FUZZ -u http://SERVER_IP:PORT/blog/indexFUZZ
-```
+1. Fuzzing de Diretórios:
+   Descobre pastas e arquivos escondidos
+  ```bash
+  ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://SERVER_IP:PORT/FUZZ
+  ```
 
-3. Fuzzing Recursivo (Explora subdiretórios automaticamente):
-```bash
-ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://SERVER_IP:PORT/FUZZ -recursion -recursion-depth 1 -e .php -v
-```
+2. Extension Fuzzing:
+   Descobre extensões de arquivos aceitas.
+  ```bash
+  ffuf -w /usr/share/seclists/Discovery/Web-Content/web-extensions.txt:FUZZ -u http://SERVER_IP:PORT/blog/indexFUZZ
+  ```
 
-4. Domain Fuzzing (Descobre subdomínios):
-```bash
-sudo sh -c 'echo "SERVER_IP dominio.site" >> /etc/hosts'
-ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u https://FUZZ.dominio.site/
-```
+3. Fuzzing Recursivo:
+   Explora subdiretórios automaticamente.
+  ```bash
+  ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://SERVER_IP:PORT/FUZZ -recursion -recursion-depth 1 -e .php -v
+  ```
 
-5. VHosts Fuzzing (Descobre virtual hosts):
-```bash
-ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u http://SERVER_IP/ -H "Host: FUZZ.dominio.site"
-```
+4. Domain Fuzzing:
+   Descobre subdomínios.
+  ```bash
+  sudo sh -c 'echo "SERVER_IP dominio.site" >> /etc/hosts'
+  ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u https://FUZZ.dominio.site/
+  ```
 
-6. Parameter Fuzzing (Testa parâmetros escondidos em GET e POST) :
-```bash
-#GET
-ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt:FUZZ -u https://site.com/view.php?FUZZ=1
+5. VHosts Fuzzing:
+   Descobre virtual hosts.
+  ```bash
+  ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u http://SERVER_IP/ -H "Host: FUZZ.dominio.site"
+  ```
 
-#POST
-ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt:FUZZ -u https://site.com/view.php -X POST -d "FUZZ=1" -H "Content-Type: application/x-www-form-urlencoded"
-```
+6. Parameter Fuzzing:
+   Testa parâmetros escondidos em GET e POST.
+  ```bash
+  #GET
+  ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt:FUZZ -u https://site.com/view.php?FUZZ=1
+  
+  #POST
+  ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt:FUZZ -u https://site.com/view.php -X POST -d "FUZZ=1" -H "Content-Type: application/x-www-form-urlencoded"
+  ```
 
-### 🚩 Flags Úteis
+## Flags Úteis
 
 |Flag|Função|
 |---|---|
