@@ -2,6 +2,9 @@
   <img src="https://github.com/ffuf/ffuf/blob/master/_img/ffuf_run_logo_600.png?raw=true" alt="Ffuf" width="600"/>
 </div>
 
+
+➡️ [PDF da Aula](./pdf/ffuf.pdf) de ffuf desenvolvido por [@rideckszz](https://github.com/rideckszz)
+
 # Ffuf (Fuzz Faster U Fool)
 
 O ffuf é uma ferramenta de linha de comando, reconhecida pela sua alta perfomance em tarefas de fuzzing web. Sua versatilidade permite realizar desde a descoberta de diretórios até a identificação de parâmetros ocultos em requisições POST.
