@@ -2,11 +2,9 @@
   <img src="https://tse1.mm.bing.net/th/id/OIP.-hHoxXiebtG0hp8a3BfS2QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" alt="WPScan" width="600"/>
 </div>
 
-# WPScan
-
 ➡️ [PDF da Aula](./pdf/WpScan.pdf) desenvolvido por [@rideckszz](https://github.com/rideckszz)
 
----
+# WPScan
 
 ## O que é WordPress?
 
@@ -87,7 +85,7 @@ wpscan --url http://alvo.com.br --api-token SEU_TOKEN_AQUI
 
 ---
 
-## 🧠 Estratégia de Uso em CTFs
+## Estratégia de Uso em CTFs
 
 1. Rodar varredura inicial para descobrir versão e informações gerais.
 2. Enumerar plugins/temas para identificar vulnerabilidades conhecidas.
