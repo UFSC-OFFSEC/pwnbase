@@ -1,8 +1,8 @@
-# Comandos Linux Básicos e SSH
 
 ➡️ [PDF da Aula](./pdf/linux1.pdf) desenvolvido por [@Getdit](https://github.com/Getdit)\
 ➡️ [PDF da Aula](./pdf/linux2.pdf) desenvolvido por [@NicovrauG](https://github.com/NicovrauG)
 
+# Comandos Linux Básicos e SSH
 ---
 
 # Fundamentos do Sistema Operacional
@@ -14,7 +14,7 @@ Por que aprender Linux?
 
 ---
 
-## 📂 Estrutura de Diretórios
+## Estrutura de Diretórios
 
 A organização do sistema de arquivos no Linux segue uma estrutura hierárquica chamada de FHS (Filesystem Hierarchy Standard), iniciando obrigatoriamente no diretório `/`. A ilustração abaixo representa essa disposição:
 
@@ -68,7 +68,7 @@ Para fazer a gestão dos arquivos, utiliza-se os comandos abaixo:
 
 ---
 
-## 👤 Usuários e Grupos
+## Usuários e Grupos
 
 A arquitetura do Linux gerencia o acesso através de controles de propriedade.
 
@@ -93,7 +93,7 @@ A utilização do sistema é dividida em usuários e grupos, para que o administ
 
 ---
 
-## 🔑 Permissões de Arquivos
+## Permissões de Arquivos
 
 As permissões são divididas afetando os arquivos de acordo com o usuário (criador), o grupo e todos os outros usuários.
 
@@ -167,7 +167,7 @@ O sistema Linux possibilita o encadeamento de comandos para o tratamento de resu
 
 ---
 
-## 📦 Gerenciamento de Pacotes (Debian/Ubuntu)
+## Gerenciamento de Pacotes (Debian/Ubuntu)
 
 No Linux, a instalação de softwares não ocorre através de instaladores manuais avulsos. O sistema opera com base em repositórios centrais, que armazenam vários programas validados e seguros. O comando `apt` é o responsável por interagir com esses repositórios, automatizando a busca, a transferência e a resolução de dependências.
 
@@ -181,7 +181,7 @@ sudo apt purge <pacote>      # Remove o pacote com configs
 
 ---
 
-## 🔐 SSH (Secure Shell)
+## SSH (Secure Shell)
 
 O Secure Shell (SSH) é o protocolo padrão para a administração remota de sistemas. Diferente de outros protocolos, o SSH estabelece uma comunicação criptografada entre a máquina local e o servidor remoto. Isso garante que nenhum dado transmitido possa ser interceptado em texto plano por terceiros que estejam na rede.
 
