@@ -4,7 +4,7 @@ Este guia fornece os passos essenciais para configurar seu ambiente local e come
 
 ---
 
-## 🐧 1. Instalar o Kali Linux
+## 1. Instalar o Kali Linux
 
 Kali Linux é uma distribuição do sistema operacional Linux voltada para testes de penetração, análise de vulnerabilidades e segurança ofensiva. Ela vem pré-instalada com uma série de ferramentas para hacking ético, como Nmap, Burp Suite, Metasploit, Wireshark, John the Ripper, entre outras.
 
@@ -16,7 +16,7 @@ Kali Linux é uma distribuição do sistema operacional Linux voltada para teste
 
 ---
 
-## 📦 2. Instalar o VirtualBox
+## 2. Instalar o VirtualBox
 
 VirtualBox é o software de virtualização gratuito que utilizamos para rodar o Kali Linux.
 
@@ -27,7 +27,7 @@ Após a instalação, você pode adicionar a imagem do Kali baixada anteriorment
 
 ---
 
-## 🌐 3. Configurar a rede da VM
+## 3. Configurar a rede da VM
 
 Para que sua máquina Kali seja acessível na mesma rede do seu computador:
 
@@ -46,7 +46,7 @@ Você pode testar a instalação com a opção de **`Iniciar (T)`**. Se forem se
 
 ---
 
-### ⌨️ 3.1. Configurar o Teclado da VM
+### 3.1. Configurar o Teclado da VM
 
 Por padrão, o Kali vem com o teclado em inglês, para mudar:
 
@@ -58,7 +58,7 @@ Por padrão, o Kali vem com o teclado em inglês, para mudar:
 
 ---
 
-### 🔄️ 3.2 Atualização
+### 3.2 Atualização
 
 Diferente de outros sistemas operacionais, no Linux a maioria dos programas não se atualiza silenciosamente em segundo plano. Por isso, é uma boa prática manter o sistema em dia manualmente. Recomendamos executar os comandos abaixo logo após a primeira instalação e com certa frequência:
 
@@ -70,7 +70,7 @@ sudo apt upgrade
 ---
 
 
-## 🧠 4. Criar uma Conta no TryHackMe
+## 4. Criar uma Conta no TryHackMe
 
 TryHackMe é a principal plataforma prática de labs e CTFs utilizadas pela UFSC - OFFSEC. Recomendamos criar um conta gratuita para ter acesso aos desafios abordados ao longo da atuação do projeto.
 
@@ -78,7 +78,7 @@ TryHackMe é a principal plataforma prática de labs e CTFs utilizadas pela UFSC
 
 ---
 
-## 🔐 5. Baixar e Configurar a VPN do TryHackMe
+## 5. Baixar e Configurar a VPN do TryHackMe
 
 Para acessar os labs via Kali, é preciso configurar uma VPN que se conecte com o TryHackMe:
 
