@@ -19,3 +19,5 @@ Todos os Write-Ups desenvolvidos  sobre esse desafio podem ser encontrados abaix
 | Autor                     | Documento PDF                             |
 |-------------------------------|-------------------------------------------|
 | Alec Coelho (`@` *não informado*)      | [📖 Visualizar PDF](./pdf/ctf_writeup_ALEC.pdf) |
+| Filipe de Moura Peixoto ([childrenoftheK0rn](https://github.com/childrenoftheK0rn))| [📖 Visualizar PDF](./pdf/ctf_writeup_FILIPE.pdf)       |
+| Heitor de Bona Garcia (`@` *não informado*)                                        | [📖 Visualizar PDF](./pdf/ctf_writeup_HEITORDEBONAGARCIA.pdf)|
