@@ -76,7 +76,7 @@ A busca por pontos de injeção envolve testar todos os vetores de entrada (par�
 
 1. Inserção de aspas: Adicionar `'` ou `"` e observar se a aplicação retorna um erro `HTTP 500` ou _stack trace_ do banco de dados.
     
-2. Operações lógicas: Inserir `OR 1=1` para verificar se ocorre a exibição de dados adicionais não previstos.
+2. Operações lógicas: Inserir `' OR '1'='1'` para verificar se ocorre a exibição de dados adicionais não previstos.
     
 3. Atrasos de tempo:Injetar comandos de _sleep_ para analisar diferenças no tempo de carregamento.
     
