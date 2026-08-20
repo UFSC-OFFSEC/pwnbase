@@ -1,12 +1,11 @@
-
 <div align="center">
   <img src="https://cdn.cyberpunk.rs/wp-content/uploads/2018/08/sqlmap_bg2.jpg" alt="Ffuf" width="600"/>
 </div>
 
-
 ➡️ [Fonte principal](https://portswigger.net/web-security/sql-injection#subverting-application-logic)  
 ➡️ [PDF da Aula](./pdf/sql_injection.pdf) desenvolvido por [@GJSegatto](https://github.com/GJSegatto)
 
+---
 # SQLMap    
 
 O SQLMap é uma ferramenta automatizada de framework aberto que detecta e explora injeções SQL através de força bruta inteligente e inferência avançada.

@@ -1,6 +1,9 @@
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvH4bp0o12KBn-evpENgrkHv3qGN10INseR6Qe_JWu3g&s=10" alt="Nmap" width="600"/>
+</div>
 
-➡️ [PDF da Aula](./pdf/linux1.pdf) desenvolvido por [@Getdit](https://github.com/Getdit)\
-➡️ [PDF da Aula](./pdf/linux2.pdf) desenvolvido por [@NicovrauG](https://github.com/NicovrauG)
+➡️ [PDF da Aula](linux1.pdf) desenvolvido por [@Getdit](https://github.com/Getdit)\
+➡️ [PDF da Aula](linux2.pdf) desenvolvido por [@NicovrauG](https://github.com/NicovrauG)
 
 # Comandos Linux Básicos e SSH
 ---
@@ -205,6 +208,7 @@ ssh -i id_rsa usuario@host
 ```
 
 ### Transferência de Arquivos com SCP (Secure Copy)
+
 O SCP opera utilizando a mesma infraestrutura e o mesmo canal criptografado do SSH para garantir a integridade da cópia de arquivos pela rede.
 
 ```bash

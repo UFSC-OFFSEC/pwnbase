@@ -4,7 +4,7 @@
 
 # Burpsuite
 
-➡️ [PDF da Aula](./pdf/http_burpsuite.pdf) desenvolvido por [@EduardoPanizzon](https://github.com/EduardoPanizzon)
+➡️ [PDF da Aula](http_burpsuite.pdf) desenvolvido por [@EduardoPanizzon](https://github.com/EduardoPanizzon)
 
 ---
 

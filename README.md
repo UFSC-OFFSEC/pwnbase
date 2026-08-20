@@ -18,10 +18,10 @@ O **UFSC OFFSEC PwnBase** é uma iniciativa acadêmica do Grupo de Segurança Of
 
 O grupo trabalha com:
 
-- 🔍 Estudo de vulnerabilidades (CVEs)
-- 🔐 Desenvolvimento de exploits educacionais
-- 📚 Criação de material didático
-- 🏆 Participação e Desenvolvimento de CTFs (Capture The Flag)
+- Estudo de vulnerabilidades (CVEs)
+- Desenvolvimento de exploits educacionais
+- Criação de material didático
+- Participação e Desenvolvimento de CTFs (Capture The Flag)
 
 
 ## Missão e Valores
@@ -32,13 +32,13 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 
 ###  Valores
 
-| Valor                     | Descrição                                                                 |
-|---------------------------|---------------------------------------------------------------------------|
-| 🔒 **Ética**              | Todas as atividades seguem padrões éticos e legais.                       |
-| 🎓 **Educação**           | Foco no aprendizado contínuo e no compartilhamento de conhecimento.       |
-| 🚀 **Inovação**           | Busca constante por novas técnicas e metodologias em segurança ofensiva.  |
-| 🤝 **Colaboração**        | Trabalho em equipe e contribuição com a comunidade.                       |
-| 🎯 **Responsabilidade**   | Uso consciente e responsável do conhecimento adquirido.                   |
+| Valor                | Descrição                                                                |
+| -------------------- | ------------------------------------------------------------------------ |
+| **Ética**            | Todas as atividades seguem padrões éticos e legais.                      |
+| **Educação**         | Foco no aprendizado contínuo e no compartilhamento de conhecimento.      |
+| **Inovação**         | Busca constante por novas técnicas e metodologias em segurança ofensiva. |
+| **Colaboração**      | Trabalho em equipe e contribuição com a comunidade.                      |
+| **Responsabilidade** | Uso consciente e responsável do conhecimento adquirido.                  |
 
 
 ## Membros
@@ -46,18 +46,18 @@ Complementar a formação dos acadêmicos da **Universidade Federal de Santa Cat
 ###  Coordenação
 
 
-| Nome                                   | Função                     | GitHub                                               |
-|----------------------------------------|----------------------------|------------------------------------------------------|
-| 👨‍🏫 **Prof. Dr. Roberto Filho**         | Coordenador Geral          | [@robertovrf](https://github.com/robertovrf)         |
-| 👨‍🏫 **Prof. Dr. Martin A. G. Vigil**    | Professor Responsável      | [@Gagliotti](https://github.com/gagliotti)           |
-| 🧑‍💻 **Clara Marcela Grossl**            | Bolsista Responsável       | [@Clara-M-Grossl](https://github.com/Clara-M-Grossl) |
+| Nome                                   | Função                | GitHub                                               |
+| -------------------------------------- | --------------------- | ---------------------------------------------------- |
+| 👨‍🏫 **Prof. Dr. Roberto Filho**      | Coordenador Geral     | [@robertovrf](https://github.com/robertovrf)         |
+| 👨‍🏫 **Prof. Dr. Martin A. G. Vigil** | Professor Responsável | [@Gagliotti](https://github.com/gagliotti)           |
+| 🧑‍💻 **Clara Marcela Grossl**         | Bolsista Responsável  | [@Clara-M-Grossl](https://github.com/Clara-M-Grossl) |
 
 ### Líderes de Projetos
-| Nome                  | Projeto                               | GitHub                         |
-|---------------------- |---------------------------------------|--------------------------------|
-|                       | Produção de CTF Externo               |                                |
-|                       |Grupo de Visitas Guiadas               |                                |                                          
-|                       | Grupo de Cursos e Palestras           |                                |
+| Nome | Projeto                     | GitHub |     |
+| ---- | --------------------------- | ------ | --- |
+|      | Produção de CTF Externo     |        |     |
+|      | Grupo de Visitas Guiadas    |        |     |
+|      | Grupo de Cursos e Palestras |        |     |
 
 ###  Estudantes Graduandos
 
@@ -126,39 +126,41 @@ O OFFSEC agradece a todos os membros que dedicaram seu tempo e conhecimento para
 
 ###  Repositórios Parceiros
 
-Esse reposotório também pode ser encontrado na base de conhecimento do projeto de extensão: [Repositórios Eng. Computação UFSC-ARA](https://github.com/repositorio-code).
+Esse repositório também pode ser encontrado na base de conhecimento do projeto de extensão: [Repositórios Eng. Computação UFSC-ARA](https://github.com/repositorio-code).
 
 ###  Projetos em Desenvolvimento
 
-| Grupo                     | Descrição                                                                     |
-|---------------------------|-------------------------------------------------------------------------------|
-| 🎯 **CTF Externo**        | Criação de desafios *Capture the Flag* autorais.                              |
-| 📚 **Palestras e Cursos** | Produção de conteúdo educativo e contato com a comunidade externa.            |
-| 🏫 **Visitas Guiadas**    | Apresentação de cibersegurança a escolas, em parceria com o projeto da UFSC.  |
+| Grupo                  | Descrição                                                                    |
+| ---------------------- | ---------------------------------------------------------------------------- |
+| **CTF Externo**        | Criação de desafios *Capture the Flag* autorais.                             |
+| **Palestras e Cursos** | Produção de conteúdo educativo e contato com a comunidade externa.           |
+| **Visitas Guiadas**    | Apresentação de cibersegurança a escolas, em parceria com o projeto da UFSC. |
 
 
-##  📁 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```
 pwnbase/
 
-├── 📂 assets/ #Projects resources
+├── 📂 assets/ # Projects resources
 |
-├── 📂 writups/ # Resoluções de CTFs e desafios.
+├── 📂 writeups/ # Resoluções de CTFs e desafios.
 |
 ├── 📂 content/ # Trilhas de estudo e materiais didáticos.
 |     |   
-│     ├── 📂 [00] - setup /
+│     ├── 📂 [00] - Tools Setup /
 |     |
-|     ├── 📂 [01] - fundamentals /
+|     ├── 📂 [01] - Fundamentals /
 |     |
-|     ├── 📂 [02] - recon /
+|     ├── 📂 [02] - Enumeration /
 |     |
-|     ├── 📂 [03] - web-attacks /
+|     ├── 📂 [03] - Exploitation /
 |     |
-|     ├── 📂 [04] - exploitation /
+|     ├── 📂 [04] - Web Attacks /
 |     |
-|     ├── 📂 [05] - privesc /
+|     ├── 📂 [05] - Privilege Escalation /
+|     |
+|     ├── 📂 [06] - Useful Tools /
 |
 ├── 📂 presentations/ # Apresentações, palestras e slides
 ```

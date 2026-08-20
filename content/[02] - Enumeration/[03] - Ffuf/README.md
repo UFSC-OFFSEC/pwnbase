@@ -3,7 +3,7 @@
 </div>
 
 
-➡️ [PDF da Aula](./pdf/ffuf.pdf) de ffuf desenvolvido por [@rideckszz](https://github.com/rideckszz)
+➡️ [PDF da Aula](ffuf.pdf) de ffuf desenvolvido por [@rideckszz](https://github.com/rideckszz)
 
 # Ffuf (Fuzz Faster U Fool)
 

@@ -5,7 +5,7 @@
 
 # NMAP
 
-➡️ [PDF da Aula](./pdf/recon.pdf) de NMAP desenvolvido por [@rideckszz](https://github.com/rideckszz)\
+➡️ [PDF da Aula](recon.pdf) de NMAP desenvolvido por [@rideckszz](https://github.com/rideckszz)\
 
 ---
 

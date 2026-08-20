@@ -4,7 +4,7 @@
 
 # GoBuster
 
-➡️ [PDF da Aula](./pdf/goBuster.pdf) de goBuster desenvolvido por [@ITA-LOW](https://github.com/ITA-LOW)
+➡️ [PDF da Aula](goBuster.pdf) de goBuster desenvolvido por [@ITA-LOW](https://github.com/ITA-LOW)
 
 ---
 
@@ -48,11 +48,21 @@ O GoBuster é dividido em subcomandos que definem o alvo da varredura:
 ### Exemplos de Uso
 
 ```bash
-gobuster -h                                                 # Ajuda geral da ferramenta
-gobuster <modo> --help                                      # Ajuda no modo específico
+# Ajuda geral da ferramenta
+gobuster -h                                                 
 
-gobuster dir -u https://exemplo.com -w wordlist.txt         # Descobrir diretórios e arquivos ocultos
-gobuster dns -d exemplo.com -w domains.txt --wildcard       # Enumerar subdomínios
+# Ajuda no modo específico
+gobuster <modo> --help                                     
+
+# Descobrir diretórios e arquivos ocultos
+gobuster dir -u https://exemplo.com -w wordlist.txt         
+
+# Descobrir diretórios e acrescenta os finais (.php, .txt, .html) em cada tentativa 
+gobuster dir -u https://exemplo.com -w wordlist.txt -x php,txt,html
+
+# Enumerar subdomínios
+gobuster dns -d exemplo.com -w domains.txt --wildcard       
+
 ```
 
 ## Análise de Resultados
@@ -86,3 +96,17 @@ A análise dos resultados deve focar nos códigos de status retornados depois de
 |`-k`| Ignora verificações de certifiacados SSL/TLS inválidos
 
 ---
+
+## Mensagem de erro:
+
+Caso você se depare com uma mensagem de erro como:
+
+```bash
+the server returns a status code that matches the provided options for non existing urls. http://10.80.189.6/194b1f43-1ac4-480b-aa0f-9fc6f04da659 => 200 (Length: 3690). Please exclude the response length or the status code or set the wildcard option.. To continue please exclude the status code or the length
+```
+
+Você deve rodar o gobuster com esse comando:
+
+```bash
+gobuster dir -u https://exemplo.com -w wordlist.txt --exclude-length 3690 -x php,txt,html
+```

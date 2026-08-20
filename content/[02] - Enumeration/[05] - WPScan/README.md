@@ -2,7 +2,7 @@
   <img src="https://tse1.mm.bing.net/th/id/OIP.-hHoxXiebtG0hp8a3BfS2QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" alt="WPScan" width="600"/>
 </div>
 
-➡️ [PDF da Aula](./pdf/WpScan.pdf) desenvolvido por [@rideckszz](https://github.com/rideckszz)
+➡️ [PDF da Aula](WpScan.pdf) desenvolvido por [@rideckszz](https://github.com/rideckszz)
 
 # WPScan
 

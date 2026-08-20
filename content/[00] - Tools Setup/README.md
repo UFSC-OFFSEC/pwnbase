@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZE_Toisy_sQtGvGD4eVXHl30ylX8_gRslGEwAmo8yg&s=10" alt="Nmap" width="600"/>
+</div>
 # Configurando o Ambiente
 
 Este guia fornece os passos essenciais para configurar seu ambiente local e começar os estudos práticos de segurança ofensiva.
@@ -93,6 +96,6 @@ sudo openvpn ~/Downloads/seuarquivo.ovpn
 
 ---
 
-## 🔴 6. Conclusão
+## 6. Conclusão
 
 Tudo pronto! Com o sistema devidamente configurado e atualizado você pode avançar para o próximo passo e começar a explorar os [comandos essenciais do Linux.](../%5B01%5D%20-%20fundamentals/%5B01%5D%20-%20Linux/)
