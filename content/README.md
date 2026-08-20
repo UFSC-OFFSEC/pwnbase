@@ -17,6 +17,8 @@ A resolução de um CTF segue um fluxo lógico.
 2. **Exploração/Exploitation:** após a identificação dos serviços, é feita uma coleta aprofundada de dados e a exploração de vulnerabilidades encontradas para conseguir o acesso inicial.
 3. **Escalação de Privilégios/Privilege Escalation:** geralmente, o acesso inicial é obtido com privilégios limitados. O objetivo nessa fase é explorar configurações incorretas para obter o **root** do sistema.
 
+> [!NOTE]
+> Você pode ver mais detalhes de como começar em: [Guia Inicial](Guia%20Inicial%20-%20OFFSEC.pdf)
 ---
 
 ## Guia dos Conteúdos
