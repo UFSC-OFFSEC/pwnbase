@@ -27,13 +27,13 @@ Este diretório organiza o conteúdo didático do repositório de forma sequenci
 
 ## Módulos
 
-* [**[00] - Tools Setup**](%5B00%5D%20-%20setup/) $\rightarrow$ Configuração da máquina virtual e instalação de ferramentas.
+* [**[00] - Tools Setup**](%5B00%5D%20-%20Tools%20Setup/) $\rightarrow$ Configuração da máquina virtual e instalação de ferramentas.
 * [**[01] - Fundamentals**](%5B01%5D%20-%20fundamentals/) $\rightarrow$  Revisão de sistemas operacionais e comandos no terminal do Linux.
-* [**[02] - Enumeration**](%5B02%5D%20-%20recon/) $\rightarrow$ Enumeração, varredura de portas e mapeamento da superfície de ataque.
-* [**[03] - Exploitation**](%5B03%5D%20-%20web-attacks/)$\rightarrow$  Identificação de vulnerabilidades comuns em sistemas web.
-* [**[04] - Web Attacks**](%5B04%5D%20-%20exploitation/) $\rightarrow$ Exploits, comprometimento de serviços vulneráveis e ganho de acesso inicial.
-* [**[05] - Privilege Escalation**](%5B05%5D%20-%20privesc/) $\rightarrow$ Escalação de privilégios. Técnicas de pós-exploração para obter acesso administrativo (root) no alvo.
-* [**[06] - Useful Tools**] $\rightarrow$ 
+* [**[02] - Enumeration**](%5B02%5D%20-%20Enumeration/) $\rightarrow$ Enumeração, varredura de portas e mapeamento da superfície de ataque.
+* [**[03] - Exploitation**](%5B03%5D%20-%20Exploitation/)$\rightarrow$  Identificação de vulnerabilidades comuns em sistemas web.
+* [**[04] - Web Attacks**](%5B04%5D%20-%20Web%20Attacks/) $\rightarrow$ Exploits, comprometimento de serviços vulneráveis e ganho de acesso inicial.
+* [**[05] - Privilege Escalation**](%5B05%5D%20-%20Privilege%20Escalation/) $\rightarrow$ Escalação de privilégios. Técnicas de pós-exploração para obter acesso administrativo (root) no alvo.
+* [**[06] - Useful Tools**](%5B06%5D%20-%20Useful%20Tools) $\rightarrow$ Outras ferramentas úteis.
 
 ## Instruções de Uso
 
