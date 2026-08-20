@@ -100,24 +100,24 @@ O OFFSEC agradece a todos os membros que dedicaram seu tempo e conhecimento para
 | 🧑‍💻 **Akamine Maia**               | Membro (2025)                  | `@` *(não informado)*                                      |
 | 🧑‍💻 **Alec Coelho**                | Membro (2025)                  | `@` *(não informado)*                                     |
 | 🧑‍💻 **Augusto Daleffe**            | Membro (2025)                  | [@Dleffe](https://github.com/Dleffe)                      |
-| 🧑‍💻 **Davi de Carvalho Brigido Josino**  | `@` *(não informado)*                                     |
+| 🧑‍💻 **Davi de Carvalho Brigido Josino**|  Membro (2026)             | `@` *(não informado)*                                     |
 | 🧑‍💻 **Derick Andrighetti**         | Membro (2025/2024)             | [@rideckszz](https://github.com/rideckszz)                |
 | 🧑‍💻 **Eduardo Chedid**             | Membro (2025/2024)             | [@Getdit](https://github.com/Getdit)                      |
-| 🧑‍💻 **Eduardo Panizzon**                 | [@EduardoPanizzon](https://github.com/EduardoPanizzon)    |
-| 🧑‍💻 **Filipe de Moura Peixoto**          | [@childrenoftheK0rn](https://github.com/childrenoftheK0rn)|
-| 🧑‍💻 **Heitor Soares de Melo**            | `@` *(não informado)*                                     |
+| 🧑‍💻 **Eduardo Panizzon**           |  Membro (2025)                 | [@EduardoPanizzon](https://github.com/EduardoPanizzon)    |
+| 🧑‍💻 **Filipe de Moura Peixoto**    |  Membro (2026)                 | [@childrenoftheK0rn](https://github.com/childrenoftheK0rn)|
+| 🧑‍💻 **Heitor Soares de Melo**      |  Membro (2026)                 | `@` *(não informado)*                                     |
 | 🧑‍💻 **Italo Silva**                | Membro (2025/2024)             | [@ITA-LOW](https://github.com/ITA-LOW)                    |
-| 🧑‍💻 **João Bacar Baldé**                 | `@` *(não informado)*                                     |
-| 🧑‍💻 **Jurpinho Juca Soares**             | `@` *(não informado)*                                     |
+| 🧑‍💻 **João Bacar Baldé**           |  Membro (2026)                 | `@` *(não informado)*                                     |
+| 🧑‍💻 **Jurpinho Juca Soares**       |  Membro (2026)                 | `@` *(não informado)*                                     |
 | 🧑‍💻 **Junhaum Hayden**             | Membro (2025)                  | [@JunhaumHayden](https://github.com/junhaumhayden)        |
 | 🧑‍💻 **Junior Co**                  | Membro (2025)                  | `@` *(não informado)*                                     |
 | 🧑‍💻 **Matheus Joaquim**            | Membro (2025)                  | `@` *(não informado)*                                     |
 | 🧑‍💻 **Maurício Darabas**           | Membro (2025)                  | `@` *(não informado)*                                     |
 | 🧑‍💻 **Messias dos Santos**         | Membro (2025)                  | `@` *(não informado)*                                     |
-| 🧑‍💻 **Nícolas Sanson Giaboeski**         | [@NicovrauG](https://github.com/NicovrauG)                |  
-| 🧑‍💻 **Thomas Tavares Tomaz**             | [@ThomasTavares](https://github.com/ThomasTavares)        |
-| 🧑‍💻 **Valentina Ragnini**          | Membro (2025)                  | [@valentinaleiria](https://github.com/valentinaleiria)    |
-| 🧑‍💻 **Valtair Leandro Neto**             | [@ValtairLeandro](https://github.com/ValtairLeandro)      |
+| 🧑‍💻 **Nícolas Sanson Giaboeski**   |  Membro (2025)                 | [@NicovrauG](https://github.com/NicovrauG)                |  
+| 🧑‍💻 **Thomas Tavares Tomaz**       |  Membro (2026)                 | [@ThomasTavares](https://github.com/ThomasTavares)        |
+| 🧑‍💻 **Valentina Ragnini**          | Membro (2025)                  | [@valentinaleiria](https://github.com/valentinaragnini)   |
+| 🧑‍💻 **Valtair Leandro Neto**       |  Membro (2026)                 | [@ValtairLeandro](https://github.com/ValtairLeandro)      |
 | 🧑‍💻 **Vitoria Alves**              | Membro (2025)                  | `@` *(não informado)*                                     |
 
 
